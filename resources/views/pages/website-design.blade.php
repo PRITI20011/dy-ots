@@ -21,7 +21,7 @@
                         <div class="row">
                             <div class="col-md-10 offset-1">
                                 <h1 class="h2">Web Design Services</h1>
-                                <p>At OrienaTech Solutions Private Limited, we provide the best web design services that ensure optimal customer engagement for your online business. Our web design services are meticulously planned to offer our clients the most creative and innovative designs at an extremely affordable rate. We never compromise on the quality of our website designs, regardless of the cost. Our web designers excel in crafting both static and dynamic website pages, delivering exceptional web designs at remarkably low costs.</p>
+                                <p style="text-align: justify">At OrienaTech Solutions Private Limited, we provide the best web design services that ensure optimal customer engagement for your online business. Our web design services are meticulously planned to offer our clients the most creative and innovative designs at an extremely affordable rate. We never compromise on the quality of our website designs, regardless of the cost. Our web designers excel in crafting both static and dynamic website pages, delivering exceptional web designs at remarkably low costs.</p>
                                
                             </div>
                        </div>
@@ -43,19 +43,19 @@
                                 <ul>
                                     <li>
                                         <h4>Custom website design</h4>
-                                        <p>We build a custom web design that is creative and full of features.</p>
+                                        <p style="text-align: justify">We build a custom web design that is creative and full of features.</p>
                                     </li>
                                     <li>
                                         <h4>Hire Dedicated Designer</h4> 
-                                        <p>Hire Dedicated Web Designer who will be working full time for you at an affordable cost.</p>
+                                        <p style="text-align: justify">Hire Dedicated Web Designer who will be working full time for you at an affordable cost.</p>
                                     </li>
                                     <li>
                                         <h4>Banner Designing</h4> 
-                                        <p>Build High-Quality Banner for your website at an affordable rates.</p>
+                                        <p style="text-align: justify">Build High-Quality Banner for your website at an affordable rates.</p>
                                     </li>
                                     <li>
                                         <h4>Brochure Designing</h4> 
-                                        <p>Astounding Brochure Designing Services for your business to promote your products and services.</p>
+                                        <p style="text-align: justify">Astounding Brochure Designing Services for your business to promote your products and services.</p>
                                     </li>
                                     
                                 </ul>
@@ -67,19 +67,19 @@
                                                     
                                         <li>
                                             <h4>PSD to XHTML conversion</h4> 
-                                            <p>Get the most out of your web design with pixel perfect PSD To XHTML Conversion.</p>
+                                            <p style="text-align: justify">Get the most out of your web design with pixel perfect PSD To XHTML Conversion.</p>
                                         </li>
                                         <li>
                                             <h4>Graphic Designing</h4> 
-                                            <p>We offer beautiful graphic design services at highly competitive rates!</p>
+                                            <p style="text-align: justify">We offer beautiful graphic design services at highly competitive rates!</p>
                                         </li>
                                         <li>
                                             <h4>Logo Designing</h4> 
-                                            <p>Our Logo Design Services take stride and passion to deliver our clients with the right logo design for their business</p>
+                                            <p style="text-align: justify">Our Logo Design Services take stride and passion to deliver our clients with the right logo design for their business</p>
                                         </li>
                                         <li>
                                             <h4>Corporate Identity</h4> 
-                                            <p>Our Corporate Identity Design Service is ideal for startups who are looking to enhance their brand value with a beautiful new logo design.</p>
+                                            <p style="text-align: justify">Our Corporate Identity Design Service is ideal for startups who are looking to enhance their brand value with a beautiful new logo design.</p>
                                         </li>
                                        
                                     </ul>
@@ -94,7 +94,7 @@
                        <div class="row">
                         <div class="col-lg-12 arrow-active">
                             <h4 class="section-title">Crafting Exceptional Digital Experiences</h4>
-                            <p style="font-size: large;">At Orientatech Solution Private Limited, we excel in creating stunning and functional web designs that captivate and engage your audience. Our comprehensive web design services ensure that your online presence is not only visually appealing but also user-friendly and optimized for performance. </p>
+                            <p style="font-size: large; text-align: justify">At Orientatech Solution Private Limited, we excel in creating stunning and functional web designs that captivate and engage your audience. Our comprehensive web design services ensure that your online presence is not only visually appealing but also user-friendly and optimized for performance. </p>
         
                         </div>
                     </div>

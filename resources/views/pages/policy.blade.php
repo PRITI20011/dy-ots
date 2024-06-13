@@ -16,9 +16,7 @@
         	<h3 style="margin: 30px; font-weight: 600; font-size: 30px;">Pages:</h3>
 	<div class="row">
 		<div class="col-sm-4 ">
-          
-
- <ul>
+             <ul>
                  <li class="hd1"> <i class="fa fa-file-text" aria-hidden="true" style="font-size: 18px; margin-right: 10px; "></i> <a href="#">Services</a></li> 
                
                 <ul  style="list-style-type:disc; "><li><a class ="st1" href="website-development.html">Web & Software Development</a>
@@ -34,7 +32,7 @@
                                           <li><a href="saas-application-development.html" class="st">SaaS Application Development</a></li></ul>
                                           </li>
 
-		</div>
+	           	</div>
 
 		<div class="col-sm-4 ">
            

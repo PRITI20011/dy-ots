@@ -150,7 +150,7 @@
                                            <h3 class="title"><a href=" {{ url('/digital-marketing-services') }}">Digital
                                                    Marketing Services</a></h3>
                                            <ul class="sub-menu">
-                                               <li><a href=" {{ url('/search-engine-optimization') }}"
+                                               <li><a href=" {{ url('/seo-search-engine-optimization') }}"
                                                        class="subnav_title">Search Engine Optimisation (SEO)</a>
                                                </li>
 

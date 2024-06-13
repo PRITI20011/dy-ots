@@ -20,7 +20,7 @@
                 <div class="about-block">
                     <div class="row">
                         <h1 class="h2 text-center w-100">Mobile App Development </h1>
-                        <p>At OrienaTech Solution Private Limited, we specialize in creating high-quality mobile applications tailored to meet the unique needs of our clients. Our comprehensive approach ensures a seamless process from concept to deployment, leveraging our expertise to deliver exceptional mobile experiences.</p>
+                        <p style="text-align: justify">At OrienaTech Solution Private Limited, we specialize in creating high-quality mobile applications tailored to meet the unique needs of our clients. Our comprehensive approach ensures a seamless process from concept to deployment, leveraging our expertise to deliver exceptional mobile experiences.</p>
                     </div>
                 </div>
                
@@ -40,26 +40,26 @@
                                     <ul style="padding: right 5px;">
                                         <li>
                                             <h4>User-Centered Design: </h4>
-                                            <p>We prioritize the needs and preferences of your target audience to ensure a superior user experience.</p>
+                                            <p style="text-align: justify">We prioritize the needs and preferences of your target audience to ensure a superior user experience.</p>
                                         </li>
                                         <li>
                                             <h4>Performance Optimization: </h4>
-                                            <p>Our apps run smoothly and efficiently on all supported devices.</p>
+                                            <p style="text-align: justify">Our apps run smoothly and efficiently on all supported devices.</p>
                                         </li>
                                         <li>
                                             <h4>Robust Security:</h4>
-                                            <p>We implement stringent security measures to protect user data.</p>
+                                            <p style="text-align: justify">We implement stringent security measures to protect user data.</p>
                                         </li>
                                         <li>
                                             <h4>Scalability:</h4>
-                                            <p> Our apps are designed to handle growing user numbers and evolving feature sets.
+                                            <p style="text-align: justify"> Our apps are designed to handle growing user numbers and evolving feature sets.
                                             </p>
                                             
                                         </li>
                                        
                                         <li>
                                             <h4>Compliance:</h4>
-                                            <p>We adhere to all relevant legal and regulatory requirements, including data privacy laws like GDPR.</p>
+                                            <p style="text-align: justify">We adhere to all relevant legal and regulatory requirements, including data privacy laws like GDPR.</p>
                                                     
                                         </li>
                                        

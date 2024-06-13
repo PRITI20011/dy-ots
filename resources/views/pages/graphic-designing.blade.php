@@ -25,7 +25,7 @@
                             <div class="col-md-10 offset-1">
                                 <h1 class="h2">Graphic Designing </h1>
                                 
-                                <p text-align="justify">Graphic Designing is all about communicating to your target audience via visuals and putting up your brand or business image to the public. It is a very powerful tool that has been widely used by individuals and businesses to broadcast their message to their target market with creative and attract visuals. Our Graphic design services helps in bridging the communication gap between the business and customers.</p>
+                                <p style="text-align: justify">Graphic Designing is all about communicating to your target audience via visuals and putting up your brand or business image to the public. It is a very powerful tool that has been widely used by individuals and businesses to broadcast their message to their target market with creative and attract visuals. Our Graphic design services helps in bridging the communication gap between the business and customers.</p>
                             </div>
                        </div>
                     </div>
@@ -124,18 +124,18 @@
                                                 <ul>
                                                     <li>
                                                     <h4>Expertise </h4> 
-                                                    <p>our Graphic Designing Services is hosted by pool of expert graphic designers who have limitless imagination and innovation to present you with top class graphic design suiting you message and image profile. Our each and every graphic design is unique and has the potential to stand apart from the rest.
+                                                    <p style="text-align: justify">our Graphic Designing Services is hosted by pool of expert graphic designers who have limitless imagination and innovation to present you with top class graphic design suiting you message and image profile. Our each and every graphic design is unique and has the potential to stand apart from the rest.
                                                     </p>
                                                     </li>
 
                                                     <li>
                                                     <h4>Customized design</h4> 
-                                                    <p>All our graphic designs are modeled keeping in mind the platform on which it would be utilized. For example, graphics developed for web purpose are designed and formatted accordingly for maximum visual reach and impact.</p>
+                                                    <p style="text-align: justify">All our graphic designs are modeled keeping in mind the platform on which it would be utilized. For example, graphics developed for web purpose are designed and formatted accordingly for maximum visual reach and impact.</p>
                                                     </li>
 
                                                     <li>
                                                     <h4>Latest technologies</h4> 
-                                                    <p>We at our Graphic Designing Company always love going for the latest technologies for all our graphic designing projects. This gives us the edge to go ahead and create designs that are very innovative, creative and interactive but at the same time harnessed with the latest technologies.</p>
+                                                    <p style="text-align: justify">We at our Graphic Designing Company always love going for the latest technologies for all our graphic designing projects. This gives us the edge to go ahead and create designs that are very innovative, creative and interactive but at the same time harnessed with the latest technologies.</p>
                                                     </li>
                                                     
                                                 </ul>
@@ -146,15 +146,15 @@
                                                     <ul>
                                                         <li>
                                                             <h4>Experience </h4> 
-                                                            <p>we have been offering our clients with Graphic Design services past few years now. This has enabled us to learn new things every time we design and take something to learn from it for our next design.</p>
+                                                            <p style="text-align: justify">we have been offering our clients with Graphic Design services past few years now. This has enabled us to learn new things every time we design and take something to learn from it for our next design.</p>
                                                         </li>
                                                         <li>
                                                             <h4>Low rates</h4> 
-                                                            <p> our Graphic Design Services are offered at the best possible rate. However, we make sure our Design quality is not compromised for the low pricing.</p>
+                                                            <p style="text-align: justify"> our Graphic Design Services are offered at the best possible rate. However, we make sure our Design quality is not compromised for the low pricing.</p>
                                                         </li>
                                                         <li>
                                                            
-                                                            <p> OrienaTech Solution has the expertise and experience to get all your graphic designing needs done under one roof. So if you are looking for a creative and innovative Graphic Designing Company to for you needs then you have come to the right place!</p>
+                                                            <p style="text-align: justify"> OrienaTech Solution has the expertise and experience to get all your graphic designing needs done under one roof. So if you are looking for a creative and innovative Graphic Designing Company to for you needs then you have come to the right place!</p>
                                                         </li>
                                                     </ul>
                                                </div>

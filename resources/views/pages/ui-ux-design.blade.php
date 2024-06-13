@@ -17,7 +17,7 @@
                 <div class="about-block">
                     <div class="row">
                         <h1 class="h2 text-center w-100">UI/UX Design </h1>
-                        <p>UI (User Interface) and UX (User Experience) design are crucial elements in creating effective and engaging digital products. UI design focuses on the visual aspects of a product. UX design is about enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction with the product. </p>
+                        <p style="text-align: justify">UI (User Interface) and UX (User Experience) design are crucial elements in creating effective and engaging digital products. UI design focuses on the visual aspects of a product. UX design is about enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction with the product. </p>
                     </div>
                 </div>
                
