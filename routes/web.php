@@ -109,3 +109,88 @@ Route::get('/hire-app-designer',function(){
 Route::get('/hire-dedicated-resource',function(){
     return view('pages.hire-dedicated-resource');
 });
+
+Route::get('/hire-ios-app-developer',function(){
+    return view('pages.hire-ios-app-developer');
+});
+
+Route::get('/hire-ios-javadeveloper',function(){
+    return view('pages.hire-javadeveloper');
+});
+
+Route::get('/hire-Laravel-developer',function(){
+    return view('pages.hire-Laravel-developer');
+});
+
+Route::get('/hire-PHP-developer',function(){
+    return view('pages.hire-PHP-developer');
+});
+
+Route::get('/hire-Python-developer',function(){
+    return view('pages.hire-Python-developer');
+});
+
+Route::get('/hire-reactjs-developer',function(){
+    return view('pages.hire-reactjs-developer');
+});
+
+Route::get('/hire-smo-specialist',function(){
+    return view('pages.hire-smo-specialist');
+});
+
+Route::get('/hire-web-designer',function(){
+    return view('pages.hire-web-designer');
+});
+
+Route::get('/hire-wordpress-developer',function(){
+    return view('pages.hire-wordpress-developer');
+});
+
+Route::get('/ipad-app-developer',function(){
+    return view('pages.hire-ipad-app-developer');
+});
+
+Route::get('/iphone-app-development',function(){
+    return view('pages.hire-iphone-app-development');
+});
+
+Route::get('/mobile-app-design',function(){
+    return view('pages.mobile-app-design');
+});
+
+Route::get('/mobile-apps-development',function(){
+    return view('pages.mobile-apps-development');
+});
+
+Route::get('/mordenization',function(){
+    return view('pages.mordenization');
+});
+
+
+Route::get('/policy',function(){
+    return view('pages.policy');
+});
+
+Route::get('/saas-application-development',function(){
+    return view('pages.saas-application-development');
+});
+
+Route::get('/seo-packages',function(){
+    return view('pages.seo-package');
+});
+
+Route::get('/search-engine-optimization',function(){
+    return view('pages.search-engine-optimization');
+});
+
+Route::get('/ui-ux-design',function(){
+    return view('pages.ui-ux-design');
+});
+
+Route::get('/website-design',function(){
+    return view('pages.website-design');
+});
+
+Route::get('/wireframe-design',function(){
+    return view('pages.wireframe-design');
+});
