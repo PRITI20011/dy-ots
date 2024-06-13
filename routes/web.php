@@ -82,8 +82,8 @@ Route::get('/digital-marketing-services',function(){
     return view('pages.digital-marketing-services');
 });
 
-Route::get('/document-management-services',function(){
-    return view('pages.document-management-services');
+Route::get('/document-management-system-development',function(){
+    return view('pages.document-management-system-development');
 });
 
 Route::get('/ecommerce-development',function(){
@@ -162,8 +162,8 @@ Route::get('/mobile-apps-development',function(){
     return view('pages.mobile-apps-development');
 });
 
-Route::get('/mordenization',function(){
-    return view('pages.mordenization');
+Route::get('/modernization',function(){
+    return view('pages.modernization');
 });
 
 
@@ -179,8 +179,8 @@ Route::get('/seo-packages',function(){
     return view('pages.seo-package');
 });
 
-Route::get('/search-engine-optimization',function(){
-    return view('pages.search-engine-optimization');
+Route::get('/seo-search-engine-optimization',function(){
+    return view('pages.seo-search-engine-optimization');
 });
 
 Route::get('/ui-ux-design',function(){

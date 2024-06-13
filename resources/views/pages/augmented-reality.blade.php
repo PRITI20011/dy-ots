@@ -18,7 +18,7 @@
                         <div class="row">
                             <div class="col-md-10 offset-1">
                                 <h1 class="h1">Augmented Reality Solutions</h1>
-                                <p>Augmented Reality (AR) is a cutting-edge technology that overlays information and virtual objects onto real-world environments in real-time. By enhancing the external surroundings with additional data, it creates a unique artificial environment. We provide top-tier Augmented Reality Solutions tailored for your business needs. AR is highly compatible with devices like iOS, Hololens, iPhones, and Android devices, making it versatile and widely accessible.</p>
+                                <p style="text-align: justify">Augmented Reality (AR) is a cutting-edge technology that overlays information and virtual objects onto real-world environments in real-time. By enhancing the external surroundings with additional data, it creates a unique artificial environment. We provide top-tier Augmented Reality Solutions tailored for your business needs. AR is highly compatible with devices like iOS, Hololens, iPhones, and Android devices, making it versatile and widely accessible.</p>
 
                             </div>
                        </div>
