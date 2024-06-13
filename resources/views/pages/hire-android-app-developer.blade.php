@@ -21,10 +21,10 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-20 offset-0.5">
-                                <h1 class="h2" style="margin-right: 4%;">Hire Android App Developer</h1>
+                            <div class="col-md-20">
+                                <h1>Hire Android App Developer</h1>
 
-                            <p style="font-size: 22px; text-align: justify; line-height: 1.5;">OrianaTech Solution Private Limited is seeking a highly skilled iOS App Developer to join our dynamic team. The ideal candidate will be responsible for developing robust and innovative iPhone applications that enhance user experience and meet client needs. As part of our team, you will collaborate with designers, project managers, and other developers to create top-notch mobile solutions. If you are passionate about iOS development and have a strong track record of building high-quality apps, we would love to hear from you.</p><!--</span>-->
+                            <p>OrianaTech Solution Private Limited is seeking a highly skilled iOS App Developer to join our dynamic team. The ideal candidate will be responsible for developing robust and innovative iPhone applications that enhance user experience and meet client needs. As part of our team, you will collaborate with designers, project managers, and other developers to create top-notch mobile solutions. If you are passionate about iOS development and have a strong track record of building high-quality apps, we would love to hear from you.</p><!--</span>-->
                             </div>
                        </div>
                     </div>
@@ -39,10 +39,10 @@
                     <div class="row">
                         <div class="col-lg-6 arrow-active">
                             <h2 class="section-title text-uppercase">Why Hire android app developer from OrianaTech Solutions Private Limited?</h2>
-                            <a class="line-arrow-link" href="contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
+
                         </div>
                         <div class="col-lg-3">
-                            <div class="ul-icon white-tick" style="font-size: 22px;">
+                            <div class="ul-icon white-tick" style="font-size: 15px;">
                                 <ul style="list-style-type:disc">
                                     <li>
                                         <p >Expertise and Experience</p>
@@ -63,8 +63,8 @@
                             </div>
                         </div>
                         <div class="col-lg-3">
-                                <div class="ul-icon white-tick" style="font-size: 22px;">
-                                    <ul style="list-style-type:disc; margin-left: 10%;">
+                                <div class="ul-icon white-tick" style="font-size: 15px;">
+                                    <ul style="list-style-type:disc; margin-left: 7%;">
 
                                     <li>
                                         <p>24/7 support and maintenance</p>
@@ -90,12 +90,12 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify; line-height: 1.5;  "> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level android applications:</br></br></h2>
+                      <h2 class="mb-2"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level android applications:</br></h2>
 
 
                       <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="font-size: 20px;">
-                            <ul style="list-style-type:disc;text-align: justify">
+                        <div class="ul-icon white-tick">
+                            <ul style="list-style-type:disc;">
                                 <li>
                                     <p>Java - The traditional and robust language for Android development.</p>
                                 </li>
@@ -133,8 +133,8 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 20px;">
-                                <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
+                            <div class="ul-icon white-tick">
+                                <ul style="list-style-type:disc;">
 
                                     <li>
                                         <p>Firebase - For real-time databases, authentication, cloud messaging, and analytics.</p>
@@ -194,7 +194,7 @@
                         <div class="formOnblue contact-wrap">
                             <h4 class="mt-3">Contact</h4>
                             <form class="m-auto" method="post" id="getIn">
-                                <input type="hidden" name="_token" value="cg66iMr1d2r1SuJfVW0k63jak4b48KzcsBXxcoMp">
+                                <input type="hidden" name="_token" value="">
                                 <div class="form-row">
                                     <div class="form-group col-md-6">
                                         <input type="text" class="form-control" name="gname" id="fullName"
@@ -220,7 +220,7 @@
                                     <div class="line"></div>
                                 </div>
                                 <div class="form-group">
-                                    <div class="g-recaptcha" data-sitekey="6Ld3pFoUAAAAAJ5nlrpBDHvWjTz04BIk9wpSRA_G">
+                                    <div class="g-recaptcha" data-sitekey="">
                                     </div>
                                 </div>
 
