@@ -6,5 +6,7 @@ use Illuminate\Http\Request;
 
 class HireJavaDeveloperController extends Controller
 {
-    //
+    public function index(){
+        return view('pages.hire-javadeveloper');
+    }
 }
