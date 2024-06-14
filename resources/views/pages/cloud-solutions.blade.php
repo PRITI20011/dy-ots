@@ -35,7 +35,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 arrow-active">
-                            <h2 class="section-title text-uppercase">3 services offered by cloud computing for businesses</h2>
+                            <h2 class="section-title text-uppercase" style="text-align: justify">3 services offered by cloud computing for businesses</h2>
                         </div>
                         <div class="col-lg-6">
                             <div class="ul-icon white-tick">

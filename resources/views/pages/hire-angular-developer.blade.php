@@ -148,7 +148,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 20px;">
+                            <div class="ul-icon white-tick" style="text-align: justify">
                                 <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
 
                                     <li>

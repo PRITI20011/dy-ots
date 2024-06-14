@@ -41,7 +41,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick" style=" margin-left: 30%;">
-                                <ul style="list-style-type:disc;margin-left: 20%;font-size: 20px;">
+                                <ul style="list-style-type:disc;margin-left: 20%">
                                     <li>
                                         <p>Expertise and Experience</p>
                                     </li>
@@ -62,7 +62,7 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick" >
-                                    <ul style="list-style-type:disc;margin-left: 15%;font-size: 20px;"> 
+                                    <ul style="list-style-type:disc;margin-left: 15%"> 
                                         
                                     <li>
                                         <p>Our WordPress Development Services:</p>
@@ -95,9 +95,9 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="line-height: 1.5;">Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level WordPress websites. We leverage the latest tools and frameworks to ensure your website is fast, secure, and scalable.</br> </br></h2>
+                      <h2 class="mb-4" style="text-align: justify">Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level WordPress websites. We leverage the latest tools and frameworks to ensure your website is fast, secure, and scalable.</br> </br></h2>
                       <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="font-size: 20px;">
+                        <div class="ul-icon white-tick">
                             <ul style="list-style-type:disc ; text-align: justify">
                                 <li>
                                     <p style="text-align: justify">WordPress - The core content management system (CMS) that powers the website.</p>
@@ -122,7 +122,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 20px;">
+                            <div class="ul-icon white-tick">
                                 <ul style="list-style-type:disc;margin-left: 10%; text-align: justify">
                                     
                                     <li>

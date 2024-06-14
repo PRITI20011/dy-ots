@@ -35,7 +35,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
-                            <h3 class="section-title" text="justify">Advantages Of Apple Watch Apps Development!</h3>
+                            <h3 class="section-title" style="text-align: justify">Advantages Of Apple Watch Apps Development!</h3>
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
@@ -105,7 +105,7 @@
             <div class="container">
                <div class="row">
                 <div class="col-lg-4 arrow-active">
-                    <h3 class="section-title" text="justify">Our Apple Watch App Development Services</h3>
+                    <h3 class="section-title" style="text-align: justify">Our Apple Watch App Development Services</h3>
                 </div>
                 <div class="col-lg-8">
                     <div class="ul-icon white-tick">

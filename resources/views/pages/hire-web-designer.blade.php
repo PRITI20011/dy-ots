@@ -39,7 +39,7 @@
                             <h2 class="section-title text-uppercase" >Why you should hire WEb designer from Orianatech solutions?</h2>
                         </div>
                         <div class="col-lg-4">
-                            <div class="ul-icon white-tick" style="font-size: 20px;">
+                            <div class="ul-icon white-tick">
                                 <ul style="list-style-type:disc; margin-left: 40%;">
                                     <li>
                                         <p>Expertise and Experience</p>
@@ -60,7 +60,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4">
-                                <div class="ul-icon white-tick" style="font-size: 20px; margin-left: 5%;">
+                                <div class="ul-icon white-tick" style="margin-left: 5%;">
                                     <ul style="list-style-type:disc; margin-left: 10%;">
                                        
                                         
@@ -92,11 +92,11 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify; line-height: 1.5;"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level Web designes:</br></br></h2>
+                      <h2 class="mb-4" style="text-align: justify"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level Web designes:</br></br></h2>
                       
                 
                       <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="font-size: 20px;">
+                        <div class="ul-icon white-tick" >
                             <ul style="list-style-type:disc; text-align: justify">
                                 <li>
                                     <p style="text-align: justify">React.js - For creating dynamic and responsive user interfaces.</p>
@@ -138,7 +138,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 20px;">
+                            <div class="ul-icon white-tick">
                                 <ul style="list-style-type:disc;margin-left: 10%; text-align: justify">
                                     
                                    

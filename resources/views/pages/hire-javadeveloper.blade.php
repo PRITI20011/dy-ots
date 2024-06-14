@@ -30,10 +30,10 @@
                     <div class="row">
                         <div class="col-lg-5 arrow-active">
                             
-                        <h2 class="section-title text-uppercase">Why Hire a Java Developer from OrianaTech Solutions Private Limited</h2>
+                        <h2 class="section-title text-uppercase">Why Hire a Java Developer from OrianaTech Solutions Private Limited?</h2>
                         </div>
                         <div class="col-lg-7">
-                            <div class="ul-icon white-tick" style="font-size: 22px; margin-left: 20%;">
+                            <div class="ul-icon white-tick" style=" margin-left: 20%;">
                               
                                 <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;" >
                                     <li>
@@ -74,7 +74,7 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify; line-height: 1.5; "> Our team of developers are well versed with the  following cutting edge technologies which are required to build a high level java applications.</br></br>
+                      <h2 class="mb-4" style="text-align: justify;"> Our team of developers are well versed with the  following cutting edge technologies which are required to build a high level java applications.</br></br>
                       </h2>
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick" style="font-size: 20px;">

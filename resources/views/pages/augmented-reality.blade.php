@@ -39,18 +39,18 @@
                             <div class="ul-icon white-tick">
                                 <ul>
                                     <li>
-                                        <p>Custom AR mobile app creation
+                                        <p>Custom AR mobile app creation.
                                         </p>
                                     </li>
                                     <li>
-                                        <p>AR solutions for eCommerce and mobile commerce</p>
+                                        <p>AR solutions for eCommerce and mobile commerce.</p>
                                     </li>
                                     <li>
-                                        <p>AR applications for education and eLearning
+                                        <p>AR applications for education and eLearning.
                                         </p>
                                     </li>
                                     <li>
-                                        <p>Advanced image recognition and interactive maps</p>
+                                        <p>Advanced image recognition and interactive maps.</p>
                                     </li>
 
                                 </ul>
@@ -61,17 +61,17 @@
                                     <ul>
 
                                         <li>
-                                        <p>Comprehensive maintenance and support
+                                        <p>Comprehensive maintenance and support.
                                         </p>
                                     </li>
                                     <li>
-                                        <p>Geolocation and content management</p>
+                                        <p>Geolocation and content management.</p>
                                     </li>
                                     <li>
-                                        <p>Sophisticated image recognition and AR mapping</p>
+                                        <p>Sophisticated image recognition and AR mapping.</p>
                                     </li>
                                     <li>
-                                        <p>UI/UX design for user interaction</p>
+                                        <p>UI/UX design for user interaction.</p>
                                     </li>
 
                                     </ul>
@@ -87,7 +87,7 @@
        <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                                    <h3 class="section-title">Why Choose OrianaTech Solution for AR Services?</h3>
+                                    <h3 class="section-title" style="text-align: justify">Why Choose OrianaTech Solution for AR Services?</h3>
 
                                     <div class="col-md-6">
                                             <div class="ul-icon blue-tick">

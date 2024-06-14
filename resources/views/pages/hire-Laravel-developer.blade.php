@@ -76,10 +76,10 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify; line-height: 1.5"> Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level Laravel solutions.</br></br>
+                      <h2 class="mb-4" style="text-align: justify"> Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level Laravel solutions.</br></br>
                       </h2>             
                       <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="font-size: 20px;">
+                        <div class="ul-icon white-tick" style="text-align: justify">
                             <ul style="text-align: justify; list-style-type:disc">
                                 <li>
                                     <h4>PHP, Laravel Framework</h4>
@@ -96,7 +96,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 20px;">
+                            <div class="ul-icon white-tick"style="text-align: justify">
                                 <ul style="list-style-type:disc;text-align: justify;">                                    
 
                                     <li>

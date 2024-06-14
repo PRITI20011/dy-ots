@@ -51,7 +51,7 @@
                     <div class="col-md-4 col-sm-6">
                         <div class="text-center vertical-item team-item content-absolute" >
                             <div class="item-media" style=" border-top-left-radius: 20px; border-top: 3px solid rgb(18, 192, 223); border-left: 3px solid rgb(18, 192, 223); border-right: 3px solid rgb(18, 192, 223); border-top-right-radius: 25px; height: 300px;">
-                                <img src="../assets/images/sk4.png"   class="lazy"
+                                <img src="{{url('/assets/images/sk4.png')}}"   class="lazy"
                                     alt="">
                             </div>
                             <div class="item-content" style="border-bottom-left-radius: 25px; border-bottom-right-radius: 25px; border-bottom: 3px solid rgb(18, 192, 223); border-left: 3px solid rgb(18, 192, 223); border-right: 3px solid rgb(18, 192, 223);">
@@ -69,7 +69,7 @@
                     <div class="col-md-4 col-sm-6">
                         <div class="text-center vertical-item team-item content-absolute">
                             <div class="item-media" style=" border-top-left-radius: 25px; border-top: 3px solid rgb(18, 192, 223); border-left: 3px solid rgb(18, 192, 223); border-right: 3px solid rgb(18, 192, 223); border-top-right-radius: 25px; height: 300px;">
-                                <img src="../assets/images/ak4.png" class="lazy"
+                                <img src="{{url('/assets/images/ak4.png')}}" class="lazy"
                                     alt="">
                             </div>
                             <div class="item-content" style="border-bottom-left-radius: 25px; border-bottom-right-radius: 25px; border-bottom: 3px solid rgb(18, 192, 223); border-left: 3px solid rgb(18, 192, 223); border-right: 3px solid rgb(18, 192, 223);">
@@ -77,7 +77,6 @@
                                 <p class="highlight-txt text-uppercase">Employee</p>
                                 <div class="hidden-content">
                                     <p>Full-Stack Developer</p>
-                                    <!--<a href="#" class="btn btn-outline-white mt-2">Read more</a>-->
                                 </div>
                             </div>
                         </div><hr>
@@ -87,7 +86,7 @@
                     <div class="col-md-4 col-sm-8">
                         <div class="text-center vertical-item team-item content-absolute"  >
                             <div class="item-media" style=" border-top-left-radius: 25px; border-top: 3px solid rgb(18, 192, 223); border-left: 3px solid rgb(18, 192, 223); border-right: 3px solid rgb(18, 192, 223); border-top-right-radius: 25px; height: 300px;">
-                                <img src="../assets/images/s5.jpg" class="lazy"
+                                <img src="{{url('/assets/images/s5.jpg')}}" class="lazy"
                                     alt="">
                             </div>
 
@@ -96,17 +95,17 @@
                                 <p class="highlight-txt text-uppercase">Employee</p>
                                 <div class="hidden-content">
                                     <p>Full-Stack Developer</p>
-                                    <!--<a href="#" class="btn btn-outline-white mt-2">Read more</a>-->
+                                
                                 </div>
                             </div>
                         </div><hr>
                     </div>
-                <!-- </br></br> -->
+
 
                     <div class="col-md-4 col-sm-6" style="margin-left: 16%;" >
                         <div class="text-center vertical-item team-item content-absolute"  >
                             <div class="item-media" style=" border-top-left-radius: 25px; border-top: 3px solid rgb(18, 192, 223); border-left: 3px solid rgb(18, 192, 223); border-right: 3px solid rgb(18, 192, 223); border-top-right-radius: 25px; height: 300px;">
-                                <img src="../assets/images/rj4.png" class="lazy"
+                                <img src="{{url('/assets/images/rj4.png')}}" class="lazy"
                                     alt="">
                             </div>
                             <div class="item-content" style="border-bottom-left-radius: 25px; border-bottom-right-radius: 25px; border-bottom: 3px solid rgb(18, 192, 223); border-left: 3px solid rgb(18, 192, 223); border-right: 3px solid rgb(18, 192, 223);">
@@ -114,7 +113,6 @@
                                 <p class="highlight-txt text-uppercase">Employee</p>
                                 <div class="hidden-content">
                                     <p>Full-Stack Developer</p>
-                                    <!--<a href="#" class="btn btn-outline-white mt-2">Read more</a>-->
                                 </div>
                             </div>
                         </div><hr>
@@ -124,7 +122,7 @@
                     <div class="col-md-4 col-sm-6">
                         <div class="text-center vertical-item team-item content-absolute"  >
                             <div class="item-media" style=" border-top-left-radius: 25px; border-top: 3px solid rgb(18, 192, 223); border-left: 3px solid rgb(18, 192, 223); border-right: 3px solid rgb(18, 192, 223); border-top-right-radius: 25px; height: 300px; ">
-                                <img src="../assets/images/P2.png" class="lazy"
+                                <img src="{{url('/assets/images/P2.png')}}" class="lazy"
                                     alt="">
                             </div>
                             <div class="item-content" style="border-bottom-left-radius: 25px;; border-bottom-right-radius: 25px; border-bottom: 3px solid rgb(18, 192, 223); border-left: 3px solid rgb(18, 192, 223); border-right: 3px solid rgb(18, 192, 223);">
@@ -132,7 +130,6 @@
                                 <p class="highlight-txt text-uppercase">Employee</p>
                                 <div class="hidden-content">
                                     <p>Full-Stack Developer</p>
-                                    <!--<a href="#" class="btn btn-outline-white mt-2">Read more</a>-->
                                 </div>
                             </div>
                         </div><hr>

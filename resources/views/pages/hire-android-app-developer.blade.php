@@ -39,25 +39,24 @@
                     <div class="row">
                         <div class="col-lg-6 arrow-active">
                             <h2 class="section-title text-uppercase">Why Hire android app developer from OrianaTech Solutions Private Limited?</h2>
-                            <a class="line-arrow-link" href="contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
                         </div>
                         <div class="col-lg-3">
                             <div class="ul-icon white-tick" style="font-size: 22px;">
                                 <ul style="list-style-type:disc">
                                     <li>
-                                        <p >Expertise and Experience</p>
+                                        <p >Expertise and Experience.</p>
                                     </li>
                                     <li>
-                                        <p>Customized Solutions & Quality Assurance</p>
+                                        <p>Customized Solutions & Quality Assurance.</p>
                                     </li>
                                     <li>
-                                        <p>Efficient Project Management</p>
+                                        <p>Efficient Project Management.</p>
                                     </li>
                                     <li>
-                                        <p>Post-Launch Support & Client-Centric Approach</p>
+                                        <p>Post-Launch Support & Client-Centric Approach.</p>
                                     </li>
                                     <li>
-                                        <p>Innovative Mindset & Proven Success</p>
+                                        <p>Innovative Mindset & Proven Success.</p>
                                     </li>
                                 </ul>
                             </div>
@@ -67,16 +66,16 @@
                                     <ul style="list-style-type:disc; margin-left: 10%;">
 
                                     <li>
-                                        <p>24/7 support and maintenance</p>
+                                        <p>24/7 support and maintenance.</p>
                                     </li>
                                     <li>
-                                        <p>Unlimited revisions</p>
+                                        <p>Unlimited revisions.</p>
                                     </li>
                                     <li>
-                                        <p>Drive active traffic to your website or store</p>
+                                        <p>Drive active traffic to your website or store.</p>
                                     </li>
                                     <li>
-                                        <p>No hidden fees</p>
+                                        <p>No hidden fees.</p>
                                     </li>
                                     </ul>
                                 </div>

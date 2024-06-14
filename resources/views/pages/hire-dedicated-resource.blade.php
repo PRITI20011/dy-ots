@@ -72,18 +72,18 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify; line-height: 1.5;  ">Hiring dedicated resources from OrianaTech Solutions Pvt. Limited offers numerous advantages:</h2>
+                      <h2 class="mb-4" style="text-align: justify">Hiring dedicated resources from OrianaTech Solutions Pvt. Limited offers numerous advantages:</h2>
                       <div class="col-lg-12">
-                        <div class="ul-icon white-tick" style="font-size: 20px;">
+                        <div class="ul-icon white-tick" style="text-align: justify">
                             <ul style="list-style-type:disc; text-align: justify;">
                                 <li>
-                                    <h4 style="font-size: 22px; line-height: 1.5;"><b>Expertise and Proficiency</b></br></br>
+                                    <h4 style="text-align: justify"><b>Expertise and Proficiency</b></br></br>
 
-                                        <b>  Skilled Professionals:</b> Our team consists of highly skilled and experienced developers proficient in the latest technologies and industry standards.</br>
+                                        <b>  Skilled Professionals:</b > Our team consists of highly skilled and experienced developers proficient in the latest technologies and industry standards.</br>
                                         <b>  Specialized Knowledge: </b>We bring specialized knowledge and expertise to handle complex projects and deliver innovative solutions.</h4>
                                 </li>
                                 <li>
-                                    <h4 style="font-size: 22px; line-height: 1.5;"><b>Cost-Effective Solutions</b></br></br>
+                                    <h4 style="text-align: justify"><b>Cost-Effective Solutions</b></br></br>
 
 
 
@@ -91,28 +91,28 @@
                                           <b>  Flexible Engagement Models: </b>Our flexible engagement models allow you to choose the right resources as per your project requirements and budget.</h4>
                                 </li>
                                 <li>
-                                    <h4 style="font-size: 22px; line-height: 1.5;"><b> Focused Attention</b></br></br>
+                                    <h4 style="text-align: justify"><b> Focused Attention</b></br></br>
 
 
                                           <b>  Dedicated Resources:</b>Our developers work exclusively on your project, providing undivided attention and ensuring a deep understanding of your business needs.</br>
                                          <b>  Seamless Communication: </b> Direct communication with dedicated resources leads to better coordination, faster decision-making, and a smoother workflow.</h4>
                                 </li>
                                 <li>
-                                    <h4 style="font-size: 22px; line-height: 1.5;"><b>Scalability and Flexibility</b></br></br>
+                                    <h4 style="text-align: justify"><b>Scalability and Flexibility</b></br></br>
 
 
                                              <b>  Scalable Teams:  </b>Easily scale your team up or down based on project demands without the hassle of recruitment and training.</br>
                                               <b>  Adaptability: </b>Our team quickly adapts to changing project requirements and integrates seamlessly with your in-house team.</h4>
                                 </li>
                                 <li>
-                                    <h4 style="font-size: 22px; line-height: 1.5;"><b>Comprehensive Support</b></br></br>
+                                    <h4 style="text-align: justify"><b>Comprehensive Support</b></br></br>
 
 
                                          <b>  End-to-End Services: </b> From initial consultation and development to deployment and maintenance, we provide comprehensive support throughout the project.</br>
                                           <b> Post-Deployment Assistance: </b>We offer ongoing support and maintenance to ensure your solution remains up-to-date and functions optimally.</h4>
                                 </li>
                                 <li>
-                                    <h4 style="font-size: 22px; line-height: 1.5;"><b> Proven Track Record</b></br></br>
+                                    <h4 style="text-align: justify"><b> Proven Track Record</b></br></br>
 
 
 

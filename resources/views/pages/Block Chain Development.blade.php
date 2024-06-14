@@ -36,23 +36,22 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
-                            <h2 class=" text-uppercase">Why Choose OrianaTech for Blockchain Development Services?</h2>
-                            <a class="line-arrow-link" href="contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
+                            <h2 class=" text-uppercase" style="text-align: justify">Why Choose OrianaTech for Blockchain Development Services?</h2>
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
                                 <ul>
                                     <li>
-                                        <p>Reusable Components</p>
+                                        <p>Reusable Components.</p>
                                     </li>
                                     <li>
-                                        <p>Agile Development</p>
+                                        <p>Agile Development.</p>
                                     </li>
                                     <li>
-                                        <p>Cross Functional Teams</p>
+                                        <p>Cross Functional Teams.</p>
                                     </li>
                                     <li>
-                                        <p>Astute Experience in Blockchain Development</p>
+                                        <p>Astute Experience in Blockchain Development.</p>
                                     </li>
 
                                 </ul>
@@ -63,16 +62,16 @@
                                     <ul>
 
                                         <li>
-                                        <p>One of the fastest delivery</p>
+                                        <p>One of the fastest delivery.</p>
                                     </li>
                                     <li>
-                                        <p>times in the industry</p>
+                                        <p>times in the industry.</p>
                                     </li>
                                     <li>
-                                        <p>Extensive technology</p>
+                                        <p>Extensive technology.</p>
                                     </li>
                                     <li>
-                                        <p>Stack</p>
+                                        <p>Stack.</p>
                                     </li>
 
                                     </ul>
@@ -124,7 +123,7 @@
                                     </div>
                                </div>
                  <div class="col-md-12 section-padding">
-                  <img src="website/img/Blockchain.png" alt="" class="img-responsive ">
+                  <img src="{{url('/assets/website/img/Blockchain.png')}}" alt="" class="img-responsive ">
               </div>
         </div>
 </section>

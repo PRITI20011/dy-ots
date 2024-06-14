@@ -60,7 +60,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-5 arrow-active">
-                        <h1 class="section-title text-uppercase">OUR CUSTOM DIGITAL MARKETING SOLUTIONS, SO WHAT WE PROVIDE IN THEM?</h1>
+                        <h1 class="section-title text-uppercase" style="text-align: justify">OUR CUSTOM DIGITAL MARKETING SOLUTIONS, SO WHAT WE PROVIDE IN THEM?</h1>
                     </div>
                     <div class="col-lg-7">
                         <div class="ul-icon white-tick">

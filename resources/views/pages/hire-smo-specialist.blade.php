@@ -20,8 +20,8 @@
                             <div class="col-md-20 offset-0.5">
                                 <h1 class="h2" >Hire a dedicated SMO services Expert</h1>
                                 
-                                <p style="font-size: 26px; text-align: justify; line-height: 1.5;">More than 3.2 billion people worldwide use social media platforms. If your business isn't leveraging social media, you're missing out on reaching hundreds of potential customers. Social media optimization (SMO) is essential for establishing a robust online presence. By sharing engaging content, you can significantly enhance brand awareness, build a loyal following, improve customer service, gain customer trust, and drive traffic to your website, thereby engaging a broader audience.</p><!--</span>-->
-                                <p style="font-size: 22px; text-align: justify; line-height: 1.5; ">Our team of SMO service experts excels in managing all major social media channels, including Facebook, Instagram, Twitter, Quora, Reddit, and LinkedIn. With the ever-increasing number of social media users, it has become crucial for businesses to connect with their target audience online. We understand that developing a social media optimization strategy can be overwhelming, even for tech-savvy users. But don’t worry – we've got you covered! Our team will identify the most suitable social media platforms for your business and devise a marketing strategy to attract potential customers and leads. We help you build relationships with your target audience on Facebook and Instagram without hard-selling. Promote your brand with engaging video content on YouTube. Gain visibility among professionals on LinkedIn. Enhance your reach on Twitter by using hashtags to attract highly qualified leads.</p>
+                                <p style=" text-align: justify">More than 3.2 billion people worldwide use social media platforms. If your business isn't leveraging social media, you're missing out on reaching hundreds of potential customers. Social media optimization (SMO) is essential for establishing a robust online presence. By sharing engaging content, you can significantly enhance brand awareness, build a loyal following, improve customer service, gain customer trust, and drive traffic to your website, thereby engaging a broader audience.</p>
+                                <p style="text-align: justify ">Our team of SMO service experts excels in managing all major social media channels, including Facebook, Instagram, Twitter, Quora, Reddit, and LinkedIn. With the ever-increasing number of social media users, it has become crucial for businesses to connect with their target audience online. We understand that developing a social media optimization strategy can be overwhelming, even for tech-savvy users. But don’t worry – we've got you covered! Our team will identify the most suitable social media platforms for your business and devise a marketing strategy to attract potential customers and leads. We help you build relationships with your target audience on Facebook and Instagram without hard-selling. Promote your brand with engaging video content on YouTube. Gain visibility among professionals on LinkedIn. Enhance your reach on Twitter by using hashtags to attract highly qualified leads.</p>
 
                             </div>
                        </div>
@@ -39,7 +39,7 @@
                             <h2 class="section-title text-uppercase">Why you should hire an SMO services Expert?</h2>
                         </div>
                         <div class="col-lg-4">
-                            <div class="ul-icon white-tick" style="font-size: 20px; ">
+                            <div class="ul-icon white-tick ">
                                 <ul style="list-style-type:disc;margin-left: 15%">
                                     <li>
                                         <p style="text-align: justify;">Growth in organic reach by 150 percent on Facebook & Instagram.</p>
@@ -57,7 +57,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4">
-                                <div class="ul-icon white-tick" style="font-size: 20px;">
+                                <div class="ul-icon white-tick">
                                     <ul style="list-style-type:disc; margin-left: 15%;">
                                         
                                     <li>
@@ -87,7 +87,7 @@
                     <div class="row">
                       <h2 class="mb-4" style="text-align: justify">Our team of developers is well-versed with the cutting-edge technologies, which are essential for building high-level Social Media Optimization (SMO) solutions:</h2>
                       <div class="col-lg-12">
-                        <div class="ul-icon white-tick" style="font-size: 20px;">
+                        <div class="ul-icon white-tick">
                             <ul style="list-style-type:disc; text-align: justify;">
                                 <li>
                                     <h4 style="text-align: justify"><b>Content Strategy:</b></br></br>

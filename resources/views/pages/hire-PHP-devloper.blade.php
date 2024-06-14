@@ -32,7 +32,7 @@
                             <h2 class="section-title text-uppercase">Why Hire </br>a PHP developer from OrianaTech Solutions Private Limited</h2>
                         </div>
                         <div class="col-lg-7">
-                            <div class="ul-icon white-tick" style="font-size: 22px; margin-left: 20%;">
+                            <div class="ul-icon white-tick" style=" margin-left: 20%;">
                               
                                 <ul style="list-style-type:disc;">
                                     <li>
@@ -76,12 +76,12 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify; line-height: 1.5;"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level PHP applications:</br></h2>
+                      <h2 class="mb-4" style="text-align: justify"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level PHP applications:</br></h2>
                       
                       
                 
                       <div class="col-lg-6"> <hr>
-                        <div class="ul-icon white-tick" style="font-size: 20px;">
+                        <div class="ul-icon white-tick">
                             <ul style="list-style-type:disc; text-align: justify">
                                 <li>
                                     <h4>PHP Frameworks (e.g., Laravel, Symfony, CodeIgniter)</h4>
@@ -101,7 +101,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6"> <hr>
-                            <div class="ul-icon white-tick" style="font-size: 20px;">
+                            <div class="ul-icon white-tick">
                                 <ul style="list-style-type:disc;text-align: justify; margin-left: 10%;">
                                     
                                     

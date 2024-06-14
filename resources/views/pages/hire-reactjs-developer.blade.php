@@ -18,7 +18,7 @@
                         <div class="row">
                             <div class="col-md-20 offset-0.5">
                               <h1 class="h2">Hire ReactJS Developer OrianaTech Solutions</h1>
-                                <p style="font-size: 22px; text-align: justify;">OrianaTech Solutions offers skilled ReactJS developers ready to elevate your web development projects. With ReactJS being at the forefront of modern web development, our developers are proficient in leveraging this powerful library to build dynamic, interactive, and scalable user interfaces for your web applications.</p>
+                                <p style="text-align: justify">OrianaTech Solutions offers skilled ReactJS developers ready to elevate your web development projects. With ReactJS being at the forefront of modern web development, our developers are proficient in leveraging this powerful library to build dynamic, interactive, and scalable user interfaces for your web applications.</p>
                             </div>
                        </div>
                     </div>
@@ -29,10 +29,10 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5 arrow-active">
-                            <h2 class="section-title text-uppercase">Why Hire a ReactJS developer from OrianaTech Solutions Private Limited</h2>
+                            <h2 class="section-title text-uppercase">Why Hire a ReactJS developer from OrianaTech Solutions Private Limited?</h2>
                         </div>
                         <div class="col-lg-7">
-                            <div class="ul-icon white-tick" style="font-size: 22px; margin-left: 20%;">
+                            <div class="ul-icon white-tick" style=" margin-left: 20%;">
                               
                                 <ul style="list-style-type:disc;margin-left: 10%;">
                                     <li>
@@ -83,7 +83,7 @@
                       
                 
                       <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="font-size: 20px;">
+                        <div class="ul-icon white-tick">
                             <ul style="list-style-type:disc; text-align: justify">
                                 <li>
                                     <h4>ReactJS and JSX:</h4>
@@ -110,7 +110,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 20px;">
+                            <div class="ul-icon white-tick">
                                 <ul style="list-style-type:disc;margin-left: 10%; text-align: justify">
                                     
                                   

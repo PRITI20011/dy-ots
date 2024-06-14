@@ -81,7 +81,7 @@
          <div class="container">
            <div class="row">
              <div class="col-md-12 section-padding">
-                  <div style="text-align: center"><img src="../assets/images/ARTIFICIAL INTELLIGENCE.png" class="img-responsive center-block " style="margin: 0 auto;" />  </div>
+                  <div style="text-align: center"><img src="{{url('/assets/images/ARTIFICIAL INTELLIGENCE.png')}}" class="img-responsive center-block " style="margin: 0 auto;" />  </div>
                 </div>
             </div>
             </div>
@@ -136,7 +136,6 @@
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
                             <h2 class="section-title text-uppercase">Our Skills:</h2>
-                            <a class="line-arrow-link" href="contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
                         </div>
 
                         <div class="col-lg-4">
