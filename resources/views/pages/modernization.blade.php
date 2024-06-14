@@ -19,7 +19,7 @@
                         <div class="row">
                             <div class="col-md-10 offset-1">
                                 <h1 class="h2"> Modernization</h1>
-                                <p style="font-size: 120%; text-align:justify;">  Modernizing your website is vital to stay competitive in today's digital landscape. By assessing your current site and defining clear goals, you can embark on a journey to enhance its design, functionality, and user experience. Updating the design with modern aesthetics, 
+                                <p style=" text-align:justify;">  Modernizing your website is vital to stay competitive in today's digital landscape. By assessing your current site and defining clear goals, you can embark on a journey to enhance its design, functionality, and user experience. Updating the design with modern aesthetics, 
                                      optimizing content for search engines, and ensuring mobile responsiveness are key steps in this process. Additionally, improving functionality, enhancing security measures, and optimizing for SEO are essential components to consider. Through thorough testing, feedback gathering, and promotional efforts, 
                                      you can successfully launch the updated website. Continuously monitoring performance and iterating based on data insights will help ensure long-term success in engaging your audience and achieving your business objectives.There is a factor of cost cutting in every business. But, the need for moving on with the latest technology is also needed.
                                      We suggest to constantly updating the website for the marketing point of view. Here is where we step in. We help in modernizing your website according to the latest technology.
@@ -34,11 +34,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5 arrow-active">
-                            <h2 class="section-title text-uppercase">What do<br> we provide<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in <br>Modernization ?</h2>
+                            <h4 class="section-title text-uppercase">What do we provide in Modernization ?</h4>
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style: circle;">
+                            <ul style="list-style-type:disc; text-align: justify;">
                                     <li>
                                         <h4 style="text-align: justify"><b>Completely analyzing the existing platform and providing with suggestion and strategy for modernization.</b></h4>
                                     </li>
@@ -74,7 +74,7 @@
                         <h3 class="section-title mb-3">Why go for Modernization </h3>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick  pb-4">
-                                <ul style="list-style: square;margin-right: 20%;">
+                            <ul style="list-style-type:disc; text-align: justify">
                                     <li>
                                         <h4 style="text-align: justify">Giving something new in order to engage the regular visitors and unique visitors.</h4>
                                     </li>
@@ -87,7 +87,7 @@
                         <h3 class="section-title mb-3">We provide Modernization on the following CMS:</h3>
                          <div class="col-md-12">
                             <div class="ul-icon blue-tick">
-                                <ul style="list-style:circle;">
+                            <ul style="list-style-type:disc; text-align: justify">
                                     <li>
                                         <h4><b>User Experience (UX) Design</b></h4>
                                     </li>

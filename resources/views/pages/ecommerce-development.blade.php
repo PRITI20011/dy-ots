@@ -37,7 +37,7 @@
                 <div class="row mb-4">
                     <div class="col-md-6">
                         <div class="ul-icon blue-tick">
-                            <ul>
+                        <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
                                 <li>
                                     <h4 style="text-align: justify">Custom navigation design that works for every kind of shopper.</h4>
                                 </li>
@@ -49,7 +49,7 @@
                     </div>
                     <div class="col-md-6">
                             <div class="ul-icon blue-tick">
-                                <ul>
+                            <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
                                     <li>
                                         <h4 style="text-align: justify">Lightweight CSS based layouts to decrease page-loading time.</h4>
                                     </li>
@@ -71,7 +71,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
                                     <li>
                                         <h4>Auction Development.</h4>
 
@@ -106,10 +106,11 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                                    <h3 class="section-title">Our Ecommerce Solutions Offer The Following:</h3>
+                                    <h3 style="text-align: justify"> <b>Our Ecommerce Solutions Offer The Following:</b></h3>
                                     <div class="col-md-6">
                                             <div class="ul-icon blue-tick">
-                                                <ul>
+                                                <div></div>
+                                            <ul style="list-style-type:disc; margin-left: 10%;text-align: justify; padding: bottom 59px;">
                                                     <li>
                                                         <h4>Custom navigation design that works for every kind of shopper.</h4>
                                                     </li>
@@ -121,7 +122,7 @@
                                         </div>
                                         <div class="col-md-6">
                                                 <div class="ul-icon blue-tick">
-                                                    <ul>
+                                                <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
                                                         <li>
                                                             <h4>Lightweight CSS based layouts to decrease page-loading time.</h4>
                                                         </li>

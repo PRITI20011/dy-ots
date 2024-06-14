@@ -6,7 +6,7 @@
                 <div class="header-banner bg-grad has-mask">
                 <div class="ax-inner-banner">
                     <div class="banner-intro">
-                        <h3>Seo packages</h3>
+                        <h3>Seo Packages</h3>
                     </div>
                 </div>
             </div>
@@ -14,14 +14,14 @@
         <section class="section-padding pb-3">
             <div class="container content"> 
                 <div class="row text-center">
-                        <p style="text-align: justify">Oriana Tech Solutions offers cost-effective SEO service packages designed to boost your business’s visibility in search engine results. Our tailored SEO packages help improve your site's ranking for specific niche keywords, driving targeted traffic and facilitating business growth. Achieving a high search engine ranking ensures your website attracts the right audience, thereby enhancing your business success. Our affordable SEO packages provide the optimal solutions to maximize these benefits for your website.</p>  
+                        <p style="text-align: justify">OrianaTech Solutions offers cost-effective SEO service packages designed to boost your business’s visibility in search engine results. Our tailored SEO packages help improve your site's ranking for specific niche keywords, driving targeted traffic and facilitating business growth. Achieving a high search engine ranking ensures your website attracts the right audience, thereby enhancing your business success. Our affordable SEO packages provide the optimal solutions to maximize these benefits for your website.</p>  
                 </div>
             </div>
         </section>
 
         <section>
         	<div class="container text-center">
-        		<h4><span style="font-weight: 700">Note</span> - Specific No of Keywords & Customized Packages <a href="{{url('/contact-us')}}">Contact Us Now</a>.</h4>
+        		<h4><span style="font-weight: 700">Note</span>- Specific No of Keywords & Customized Packages <a href="{{url('/contact-us')}}">Contact Us Now</a>.</h4>
         	</div>
         </section>
 

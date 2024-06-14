@@ -9,7 +9,7 @@
                 <div class="header-banner bg-grad has-mask">
                 <div class="ax-inner-banner">
                     <div class="banner-intro">
-                        <h3>Artificial intelligence and machine learning</h3>
+                        <h3>Artificial Intelligence and Machine Learning</h3>
                     </div>
                 </div>
             </div>
@@ -22,6 +22,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-10 offset-1">
+                            <h1 class=" text-uppercase"><b>Artificial intelligence and machine learning</b></h1>
+                            <br>
                              <p style="text-align: justify">OrianaTech Solutions Technologies stands at the forefront of Applied AI and Machine Learning innovation, dedicated to empowering businesses to harness the immense potential of Big Data and Machine Learning solutions for tangible business growth. Our focus lies in seamlessly integrating cutting-edge technologies to drive measurable business outcomes. Through our Artificial Intelligence and Machine Learning Development Services, we streamline operations and enhance efficiency across various industries.</p>
                             </div>
                        </div>
@@ -36,16 +38,16 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
-                            <h1 class="section-title text-uppercase">How Do We Do It</h1>
+                            <h1 class="section-title text-uppercase">How Do We Do It?</h1>
                            
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
 
                                         <h4>Understand</h4>
-                                        <p style="text-align: justify">We analyze and understand the data that includes images, audios and  text.AI techniques can improve image quality, restore old photographs, and remove noise from images</p>
+                                        <p style="text-align: justify">We analyze and understand the data that includes images, audios and  text.AI techniques can improve image quality, restore old photographs, and remove noise from images.</p>
                                     </li>
                                     <li>
                                         <h4>Acquire Knowledge
@@ -57,7 +59,7 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick">
-                                    <ul>
+                                <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
 
                                     <li>
                                         <h4>Engage
@@ -92,7 +94,7 @@
 
                                     <div class="col-md-6">
                                         <div class="ul-icon blue-tick mt-5">
-                                            <ul>
+                                        <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                 <li>
                                                     <h4>Swift Analysis, Prediction, and Processing</h4>
                                                     <p style="text-align: justify">Machine learning services facilitate quick analysis, prediction, and data processing, enabling faster and more informed decision-making.
@@ -112,7 +114,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="ul-icon blue-tick mt-5">
-                                            <ul>
+                                        <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                 <li>
                                                     <h4>Improved Customer Segmentation</h4>
                                                     <p style="text-align: justify">They improve customer segmentation and accurately predict lifetime value, enabling targeted marketing and better retention.</p>
@@ -131,6 +133,7 @@
 
             <div class="clearfix"></div>
 
+            <div class="clearfix"></div>
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
                     <div class="row">
@@ -140,7 +143,7 @@
 
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
                                         <h4>Artificial Neural Networks</h4>
                                     </li>
@@ -158,7 +161,7 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick">
-                                    <ul>
+                                <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                         <li>
                                             <h4>Skin Texture Analysis<h4>
                                         </li>
@@ -174,6 +177,7 @@
                     </div>
                 </div>
             </div>
+</div>
         </section>
 
         @endsection

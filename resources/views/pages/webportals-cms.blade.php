@@ -98,7 +98,7 @@
                         <h3 class="section-title">The kind of Portals and CMS we offer:</h3>
                         <div class="col-md-6">
                             <div class="ul-icon blue-tick">
-                                <ul>
+                            <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
                                     <li>
                                         <h4>PHP Development.</h4>
                                     </li>
@@ -113,7 +113,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="ul-icon blue-tick">
-                                <ul>
+                            <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
                                     <li>
                                         <h4>WordPress Development.</h4>
                                     </li>

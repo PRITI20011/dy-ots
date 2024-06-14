@@ -23,19 +23,17 @@
                
             </div>
             <div>
-                <div></div>
-                <div class="container content">
-                <div class="clearfix"></div>
-                <div class="tech-feature bg-blue section-padding text-white">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-5 arrow-active">
-                                <h4 class="section-title text-uppercase" style="padding-left: 30px;">Benefits of UI/UX Design</h4>
+            <div class="clearfix"></div>
+            <div class="tech-feature bg-blue section-padding text-white">
+                <div class="container">
+                    <div class="row">
+                <div class="col-lg-5 arrow-active">
+                                <h4 class="section-title text-uppercase" style="padding-left: 30px;">Benefits of UI/UX Design:</h4>
                                
                             </div>
                             <div class="col-lg-7">
                                 <div class="ul-icon white-tick">
-                                    <ul style="list-style-type:disc;">
+                                   <ul style="list-style-type:disc; text-align: justify">
                                         <li>
                                             <h4 style="text-align: justify;">Improved User Satisfaction.</h4>
                                           

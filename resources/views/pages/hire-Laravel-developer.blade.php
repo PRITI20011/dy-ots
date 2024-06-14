@@ -17,7 +17,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-20 offset-0.5">
-                              <h1 class="h2">Hire Laravel Developer Oriana Tech Solutions</h1>
+                              <h1 class=" text-uppercase"><b>Hire Laravel Developer</b></h1>
+                              <br>
                                 <p style=" text-align: justify;">OrianaTech Solutions offers skilled Laravel developers ready to elevate your web development projects. Our developers are proficient in leveraging the Laravel framework to build robust, scalable, and secure web applications tailored to your unique business needs. With a focus on quality and efficiency, our team delivers top-notch solutions that drive your business forward. Partner with us to harness the power of Laravel and achieve your development goals.</p>
                             </div>
                        </div>
@@ -76,19 +77,19 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify"> Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level Laravel solutions.</br></br>
-                      </h2>             
+                      <h4 class="mb-4" style="text-align: justify"> Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level Laravel solutions.</br></br>
+                      </h4>             
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick" style="text-align: justify">
                             <ul style="text-align: justify; list-style-type:disc">
                                 <li>
-                                    <h4>PHP, Laravel Framework</h4>
+                                    <h4>PHP, Laravel Framework.</h4>
                                 </li>
                                 <li>
-                                    <h4>MySQL and other Databases</h4>
+                                    <h4>MySQL and other Databases.</h4>
                                 </li>
                                 <li>
-                                    <h4>Vue.js and Blade Templating Engine </h4>
+                                    <h4>Vue.js and Blade Templating Engine. </h4>
                                 </li>
 
                                
@@ -100,13 +101,13 @@
                                 <ul style="list-style-type:disc;text-align: justify;">                                    
 
                                     <li>
-                                        <h4>RESTful APIs, Docker and Containerization</h4>
+                                        <h4>RESTful APIs, Docker and Containerization.</h4>
                                     </li>
                                     <li>
-                                        <h4>Testing Frameworks (PHPUnit, Laravel Dusk)</h4>
+                                        <h4>Testing Frameworks (PHPUnit, Laravel Dusk).</h4>
                                     </li>
                                     <li>
-                                        <h4>Continuous Integration and Delivery (CI/CD)</h4>
+                                        <h4>Continuous Integration and Delivery (CI/CD).</h4>
                                     </li>
                                     
                                 </ul>

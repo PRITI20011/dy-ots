@@ -110,7 +110,7 @@
                                                        class="subnav_title">Custom Software Development</a></li>
                                                <li><a href=" {{ url('/database-development') }}"
                                                        class="subnav_title">Database Development</a></li>
-                                               <li><a href=" {{ url('/document-management-system') }}"
+                                               <li><a href=" {{ url('/document-management-system-development') }}"
                                                        class="subnav_title">Document Management System
                                                        Development</a></li>
                                                <li><a href=" {{ url('/saas-application-development') }}"
@@ -137,7 +137,7 @@
                                            <ul class="sub-menu">
                                                <li><a href="{{ url('/android-app-development') }}"
                                                        class="subnav_title">Android app development</a></li>
-                                               <li><a href=" {{ url('/ios-app-development') }}" class="subnav_title">iOS
+                                               <li><a href=" {{ url('/iphone-app-development') }}" class="subnav_title">iOS
                                                        app development</a></li>
                                                <li><a href="{{ url('/ipad-app-development') }}" class="subnav_title">iPad
                                                        app development</a></li>

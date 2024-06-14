@@ -40,7 +40,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
                                         <h4>Mobile SEO optimization.</h4>
                                     </li>

@@ -39,7 +39,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
                                         <h4 style="text-align: justify">Custom iPhone app development to meet your requirements.</h4>
                                    
@@ -58,7 +58,7 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick">
-                                    <ul>
+                                <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                         <li>
                                         <h4 style="text-align: justify">Our iPhone app development is offered at affordable rates</h4>
                                         
@@ -86,7 +86,7 @@
                                     <h6 class="section-title">Why Choose OrienaTech Solutions Private Limited for iPhone App Development Services?</h6>
                                     <div class="col-md-6">
                                             <div class="ul-icon blue-tick">
-                                                <ul>
+                                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                     <li>
                                                     <h4>Expert iPhone App Development   </h4> 
                                                     <p style="text-align: justify">At Orienatech Solutions Private Limited, we specialize in delivering top-notch iPhone app development services. Our team of seasoned developers is adept at creating innovative, user-friendly, and high-performance iOS applications tailored to meet your specific business needs.</p>
@@ -106,7 +106,7 @@
                                         </div>
                                         <div class="col-md-6">
                                                 <div class="ul-icon blue-tick">
-                                                    <ul>
+                                                <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                         <li>
                                                             <h4>Proven Track Record </h4> 
                                                             <p style="text-align: justify">Our portfolio speaks for itself. We have successfully delivered numerous iPhone apps that have helped businesses achieve their objectives and reach new heights. Our clients trust us for our reliability, innovation, and commitment to quality.</p>

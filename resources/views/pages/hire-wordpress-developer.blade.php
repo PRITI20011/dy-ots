@@ -19,7 +19,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-20 offset-0.5">
-                                <h1 class="h2" style="margin-right: 2%;" >Hire a WordPress Developer</h1>
+                                <h1 class=" text-uppercase"><b>Hire a WordPress Developer</b></h1>
+                                <br>
                                 
                                 <p style=" text-align: justify;">Are you looking to create a powerful and customizable website using WordPress? Oriana Tech Solutions is here to help! Our team of expert WordPress developers is dedicated to bringing your vision to life, ensuring your online presence is not only captivating but also effective in achieving your business goals.</p><!--</span>-->
                                 
@@ -95,7 +96,7 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify">Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level WordPress websites. We leverage the latest tools and frameworks to ensure your website is fast, secure, and scalable.</br> </br></h2>
+                      <h4 class="mb-4" style="text-align: justify">Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level WordPress websites. We leverage the latest tools and frameworks to ensure your website is fast, secure, and scalable.</br> </br></h4>
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick">
                             <ul style="list-style-type:disc ; text-align: justify">

@@ -9,7 +9,7 @@
             <div class="header-banner bg-grad has-mask">
                 <div class="ax-inner-banner">
                     <div class="banner-intro">
-                        <h2>digital-marketing-services</h2>
+                        <h2>Digital Marketing Services</h2>
                     </div>
                 </div>
             </div>
@@ -21,15 +21,17 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-10 offset-1">
-                            <h1 class="h2">Digital Marketing Agency</h1>
+                            <h1 class=" text-uppercase"><b>Digital Marketing Agency</b></h1>
+                            <br>
                          <p style="text-align: justify">OrianaTech provides comprehensive digital marketing solutions worldwide, specializing in SEO, Google Ads, SMM, and Email Marketing. Our services boost sales through effective lead generation, contributing significantly to your business's success as the online customer base grows.</p>
-                             <p>Looking for digital marketing that delivers real results? OrianaTech, a creative digital marketing agency, enhances your brand's online presence. We ensure your business is discovered by thousands on social media and search engines. Currently, we serve 28 clients with proficient digital marketing strategies.</p>
+                             <p style="text-align: justify">Looking for digital marketing that delivers real results? OrianaTech, a creative digital marketing agency, enhances your brand's online presence. We ensure your business is discovered by thousands on social media and search engines. Currently, we serve 28 clients with proficient digital marketing strategies.</p>
                             <div class="text-left mt-3">
                                 <div></div>
-                  <h4>Why work with us?</h4>
+                                <br>
+                    <h3><b>Why work with us?</b></h3>
                     <div class="col-md-12">
                         <div class="ul-icon blue-tick pb-4">
-                            <ul>
+                        <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                 <li>
                                     <h4>Results-focused.</h4>
                                 </li>
@@ -60,11 +62,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-5 arrow-active">
-                        <h1 class="section-title text-uppercase" style="text-align: justify">OUR CUSTOM DIGITAL MARKETING SOLUTIONS, SO WHAT WE PROVIDE IN THEM?</h1>
+                        <h1 class="section-title text-uppercase" >OUR CUSTOM DIGITAL MARKETING SOLUTIONS, SO WHAT WE PROVIDE IN THEM?</h1>
                     </div>
                     <div class="col-lg-7">
                         <div class="ul-icon white-tick">
-                            <ul>
+                        <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                 <li>
                                     <h4>Whatsapp Marketing
                                     </h4>
@@ -102,7 +104,7 @@
                               </h3>
                     <div class="col-md-12">
                         <div class="ul-icon blue-tick">
-                            <ul>
+                        <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
 
                                 <li>
                                     <h4>Transparent Reporting</h4>

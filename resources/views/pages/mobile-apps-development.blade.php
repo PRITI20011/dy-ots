@@ -26,18 +26,16 @@
                
             </div>
             <div>
-                <div></div>
-                <div class="container content">
-                <div class="clearfix"></div>
-                <div class="tech-feature bg-blue section-padding text-white">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-5 arrow-active">
+            <div class="clearfix"></div>
+            <div class="tech-feature bg-blue section-padding text-white">
+                <div class="container">
+                    <div class="row">
+                <div class="col-lg-5 arrow-active">
                                 <h4 class="section-title text-uppercase" style="padding-left: 30px;">Why Choose OrienaTech Solution Private Limited?</h4>
                             </div>
                             <div class="col-lg-7">
                                 <div class="ul-icon white-tick">
-                                    <ul style="padding: right 5px;">
+                                    <ul style="padding: right 5px; list-style-type:disc ;text-align: justify;margin-left: 5%;">
                                         <li>
                                             <h4>User-Centered Design: </h4>
                                             <p style="text-align: justify">We prioritize the needs and preferences of your target audience to ensure a superior user experience.</p>

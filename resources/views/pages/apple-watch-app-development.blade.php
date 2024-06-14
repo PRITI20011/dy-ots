@@ -7,7 +7,7 @@
                 <div class="header-banner bg-grad has-mask">
                 <div class="ax-inner-banner">
                     <div class="banner-intro">
-                        <h1>Apple Watch App Development</h1>
+                        <h1 >Apple Watch App Development</h1>
                     </div>
                 </div>
             </div>
@@ -18,8 +18,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-10 offset-1">
-                                <h1>Apple Watch App Development</h1>
-
+                                <h1 class=" text-uppercase"><b>Apple Watch App Development</b></h1>
+                                 <br>
                                <p style="text-align: justify">At OrienaTech Solutions Private Limited, we specialize in the comprehensive development of applications for the Apple Watch, leveraging the latest technologies and best practices to deliver innovative, high-quality solutions. At OrienaTech Solutions Private Limited, our dedicated team of developers and designers is committed to delivering top-tier Apple Watch applications that are not only functional but also user-friendly and efficient. By staying abreast of the latest developments in watchOS and leveraging our expertise, we ensure that our clients receive cutting-edge solutions tailored to their specific needs.</p>
 
                             </div>
@@ -35,11 +35,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
-                            <h3 class="section-title" style="text-align: justify">Advantages Of Apple Watch Apps Development!</h3>
+                            <h3 class="section-title" >Advantages Of Apple Watch Apps Development!</h3>
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
                                         <h4>Health and Fitness Tracking</h4>
 
@@ -68,7 +68,7 @@
                     <div></div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
                                         <h4>Fitness Motivation</h4>
 
@@ -105,11 +105,11 @@
             <div class="container">
                <div class="row">
                 <div class="col-lg-4 arrow-active">
-                    <h3 class="section-title" style="text-align: justify">Our Apple Watch App Development Services</h3>
+                    <h3 class="section-title">Our Apple Watch App Development Services</h3>
                 </div>
                 <div class="col-lg-8">
                     <div class="ul-icon white-tick">
-                        <ul>
+                    <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                             <li>
                                 <h4>Custom App Development: </h4>
                                 <p style="text-align: justify">From concept to launch, we develop custom Apple Watch apps tailored to your business requirements.</p>

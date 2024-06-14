@@ -41,7 +41,7 @@
                             <h2 class="section-title text-uppercase">Why Hire android app developer from OrianaTech Solutions Private Limited?</h2>
                         </div>
                         <div class="col-lg-3">
-                            <div class="ul-icon white-tick" style="font-size: 22px;">
+                            <div class="ul-icon white-tick">
                                 <ul style="list-style-type:disc">
                                     <li>
                                         <p >Expertise and Experience.</p>
@@ -62,7 +62,7 @@
                             </div>
                         </div>
                         <div class="col-lg-3">
-                                <div class="ul-icon white-tick" style="font-size: 22px;">
+                                <div class="ul-icon white-tick">
                                     <ul style="list-style-type:disc; margin-left: 10%;">
 
                                     <li>
@@ -90,7 +90,7 @@
 
 
                       <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="font-size: 20px;">
+                        <div class="ul-icon white-tick">
                             <ul style="list-style-type:disc;text-align: justify">
                                 <li>
                                     <p style="text-align: justify">Java - The traditional and robust language for Android development.</p>
@@ -129,7 +129,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 20px;">
+                            <div class="ul-icon white-tick">
                                 <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
 
                                     <li>

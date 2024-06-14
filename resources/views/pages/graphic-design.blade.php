@@ -43,7 +43,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="list-style-type:disc ;text-align: justify;margin-left: 5%;">
                                     <li>
                                         <h4>Banner designing</h4>
                                        
@@ -78,7 +78,7 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick">
-                                    <ul>
+                                <ul style="list-style-type:disc ;text-align: justify;margin-left: 5%;">
                                        
                                         <li>
                                             <h4>Brand creation</h4>

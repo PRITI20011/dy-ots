@@ -33,7 +33,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="list-style-type:disc; text-align: justify">
                                     <li>
                                         <h4 style="text-align: justify">Helps stakeholders and team members visualize the final product and understand the website's structure and design.</h4>
 

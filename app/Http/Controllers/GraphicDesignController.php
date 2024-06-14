@@ -4,9 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class GraphicDesingningController extends Controller
+class GraphicDesingController extends Controller
 {
     public function index(){
-        return view('pages.graphic-designing');
+        return view('pages.graphic-design');
     }
 }

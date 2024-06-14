@@ -19,7 +19,7 @@
                         <div class="row">
                             <div class="col-md-10 offset-1">
                                 <h1 class="h1">IPad Apps Development Company</h1>
-                                
+                                <br>
                                 <p style="text-align: justify">In the wake of the iPhone's phenomenal success, Apple introduced its first tablet, the iPad, which swiftly established a strong foothold in the tablet market. The iPad's unique operating system, iOS, offers immense potential for developers to create exceptional apps. <br><br>At OreinaTech Solution Private Limited, we specialize in the latest iPad app development, leveraging interactive and attractive features to deliver top-notch mobile solutions at an affordable rate. Although iPad app development shares many similarities with iPhone app development, a few critical tweaks set them apart. One major distinction is the user experience provided by the iPad, which is tailored to its larger screen and versatile functionality. <br><br>iPad apps are invaluable for both business and personal use, catering to a wide range of tasks and activities. The iPad is a revolutionary device, enhancing how we manage daily tasks at home and in the office. It appeals to users of all ages and demographics.At OreinaTech, we harness the latest technologies to deliver superior iPad app development services. Our team is dedicated to creating innovative and effective mobile solutions that meet your unique needs.</p>
                             </div>
                        </div>
@@ -34,11 +34,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
-                            <h2 class="section-title ">Our Apps Development Services</h2>
+                            <h2 class="section-title ">Our Apps Development Services:</h2>
                         </div>
                         <div class="col-lg-8">
                             <div class="ul-icon white-tick" style="padding: bottom 5px; ;">
-                                <ul>
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
                                         <h5 style="text-align: justify">OrianaTech Solution Private Limited has been providing clients with mobile solutions with years of experience and expertise. We are an expert iPad app development company. We have a team of skilled iPad app developer professionals who always strive to put in their expertise to create quality iPad app for business of different profiles. Our iPad apps development service makes sure you get the most ROI and that is the reason we offer affordable pricing for app development.</h5>
                                     </li>
@@ -60,7 +60,7 @@
                                        <h6 class="section-title">Why Choose OrienaTech Solutions Private Limited for iPad App Development Services?</h6>
                                        <div class="col-md-6">
                                                <div class="ul-icon blue-tick">
-                                                   <ul>
+                                               <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                        <li>
                                                        <h4>Expert iPad App Development   </h4> 
                                                        <p style="text-align: justify">At Orienatech Solutions Private Limited, we specialize in delivering top-notch iPad app development services. Our team of seasoned developers is adept at creating innovative, user-friendly, and high-performance iPads applications tailored to meet your specific business needs.</p>
@@ -80,7 +80,7 @@
                                            </div>
                                            <div class="col-md-6">
                                                    <div class="ul-icon blue-tick">
-                                                       <ul>
+                                                   <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                            <li>
                                                                <h4>Proven Track Record </h4> 
                                                                <p style="text-align: justify">Our portfolio speaks for itself. We have successfully delivered numerous iPads apps that have helped businesses achieve their objectives and reach new heights. Our clients trust us for our reliability, innovation, and commitment to quality.</p>

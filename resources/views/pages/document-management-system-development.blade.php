@@ -20,7 +20,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
-                                <h1 class="h2">The Most User-Friendly Document Management System in the World</h1>
+                                <h3 class="h2">The Most User-Friendly Document Management System in the World</h3>
                                 <p style="text-align: justify">  Keeping your paperless office documents only on your computer or local server poses the risks of hard drive failure, fire, flood or burglary. And what if you want to access one of those important files away from the office? Embrace the world's most user-friendly EDMS with enhanced electronic signing capabilities. Designed for ease of use, top-tier security, and affordability, Folderit ensures your documents are safe and accessible anywhere, anytime.
                                 </p>
 
@@ -69,23 +69,20 @@
                         <h3 class="section-title" style="text-align: justify"><b>Purpose of a Quality and Manufacturing Document Management System</b></h3>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick">
-                               <ul style="list-style-type:'*'"></ul>
-                                <ul>
+                             
+                            <ul style="list-style-type:square;text-align: justify;margin-left: 5%;">
+                                  
                                     <li>
-                                        <ul style="list-style-type:'*'"></ul>
-                                        <h4><b></b></h4>
+                                        <h4><b>Website Security.</b></h4>
                                     </li>
                                     <li>
-                                        <h4><b>Website Security</b></h4>
+                                        <h4><b>Best performance.</b></h4>
                                     </li>
                                     <li>
-                                        <h4><b>Best performance</b></h4>
+                                        <h4><b>Proven delivery framework.</b></h4>
                                     </li>
                                     <li>
-                                        <h4><b>Proven delivery framework</b></h4>
-                                    </li>
-                                    <li>
-                                        <h4><b>Integration with external API’s</b></h4>
+                                        <h4><b>Integration with external API’s.</b></h4>
                                     </li>
                                 </ul>
                             </div>

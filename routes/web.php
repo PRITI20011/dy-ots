@@ -94,8 +94,8 @@ Route::get('/erp-development',function(){
     return view('pages.erp-development');
 });
 
-Route::get('/graphic-designing',function(){
-    return view('pages.graphic-designing');
+Route::get('/graphic-design',function(){
+    return view('pages.graphic-design');
 });
 
 Route::get('/hire-android-app-developer',function(){
@@ -146,12 +146,12 @@ Route::get('/hire-wordpress-developer',function(){
     return view('pages.hire-wordpress-developer');
 });
 
-Route::get('/ipad-app-developer',function(){
-    return view('pages.hire-ipad-app-developer');
+Route::get('/ipad-app-development',function(){
+    return view('pages.ipad-app-development');
 });
 
 Route::get('/iphone-app-development',function(){
-    return view('pages.hire-iphone-app-development');
+    return view('pages.iphone-app-development');
 });
 
 Route::get('/mobile-app-design',function(){
@@ -176,7 +176,7 @@ Route::get('/saas-application-development',function(){
 });
 
 Route::get('/seo-packages',function(){
-    return view('pages.seo-package');
+    return view('pages.seo-packages');
 });
 
 Route::get('/seo-search-engine-optimization',function(){

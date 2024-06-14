@@ -19,7 +19,7 @@
                 <div class="about-block">
                     <div class="row">
                         <h3 class="h3 text-center w-100"><b>Database Development: What You Need to Know</b></h3>
-                        <p style="font-size: 120%;text-align: justify;">
+                        <p style="text-align: justify;">
                             Database development is designing, creating a database or data model, and analyzing requirements and their intents as raw data. Database development aims to create a structure that will allow for the efficient storage and retrieval of data.
 
                             Being a blueprint for the database, it should meet the needs of business. Database development includes the design of the table structure, the creation of the indexes, and the development of the procedures and triggers.
@@ -39,18 +39,17 @@
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-5 ">
-                            <h2 class="section-title text-uppercase"><b> Database Development Process </b></h2>
+                        <div class="col-lg-12">
+                            <h2 class="section-title text-uppercase"style="text-align:center"><b> Database Development Process </b></h2>
+                        </div>
                             <p style="text-align: justify;">
                                 Developing a database involves designing the database, creating the database, and populating the database with data.
                                 This process typically begins with identifying business requirements and the formulation of a database design. The design analysis involves the creation of essential formats comprising hardware and software.
                                 A database design is crucial because it determines how users access the data use the database. Next, an organization implements a database management system to be authenticated and verified before deployment in a production environment. Then it’s an ongoing database monitoring and maintenance meeting the business requirements.
                                 And with the help of the latest versions, administrators efficiently section and store the data. It presents outstanding opportunities for businesses’ complex needs, creating compliant answers for exclusive database requests of various departments and functional units independently and in consolidation.
 
-                            </p>
-                    
-                        </div>
-                        <div class="col-lg-7">
+                           </p>
+                        <div class="col-lg-12">
                             <div class="ul-icon white-tick">
                                 <ul style="list-style: square;">
                                     <li>
@@ -77,26 +76,22 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                        <h3 class="section-title" style="text-align: justify"><b>Benefits of Outsourcing Database Development Services</b></h3>
+                        <h4 class="section-title" style="text-align: justify">Benefits of Outsourcing Database Development Services:</h4>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick">
-                               <ul style="list-style-type:'*'"></ul>
-                                <ul>
+                            <ul style="list-style-type:square;text-align: justify;margin-left: 5%;">
+                                   
                                     <li>
-                                        <ul style="list-style-type:'*'"></ul>
-                                        <h4><b></b></h4>
+                                        <h4><b>Cost Savings.</b></h4>
                                     </li>
                                     <li>
-                                        <h4><b>Cost Savings:</b></h4>
+                                        <h4><b>Access to Specialized Expertise.</b></h4>
                                     </li>
                                     <li>
-                                        <h4><b>Access to Specialized Expertise</b></h4>
+                                        <h4><b>Faster Time-to-Market.</b></h4>
                                     </li>
                                     <li>
-                                        <h4><b>Faster Time-to-Market</b></h4>
-                                    </li>
-                                    <li>
-                                        <h4><b>24/7 Support and Maintenance</b></h4>
+                                        <h4><b>24/7 Support and Maintenance.</b></h4>
                                     </li>
                                 </ul>
                             </div>

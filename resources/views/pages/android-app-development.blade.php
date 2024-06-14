@@ -36,29 +36,29 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
-                            <h3 class="section-title" style="text-align: justify">Advantages Of Android Apps Development!</h3>
+                            <h3 class="section-title" >Advantages Of Android Apps Development!</h3>
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
                                         <h4>An open source platform.</h4>
 
                                     </li>
                                     <li>
-                                        <h4>Easy to use APIs and development tools.</h4>
+                                        <h4 style="text-align: justify">Easy to use APIs and development tools.</h4>
 
                                     </li>
                                     <li>
-                                        <h4>Easy porting of application.</h4>
+                                        <h4 style="text-align: justify">Easy porting of application.</h4>
 
                                     </li>
                                     <li>
-                                        <h4>Integrate Google mail and calendar with app.</h4>
+                                        <h4 style="text-align: justify">Integrate Google mail and calendar with app.</h4>
 
                                     </li>
                                     <li>
-                                        <h4>Flexible for different kinds of app development.</h4>
+                                        <h4 style="text-align: justify">Flexible for different kinds of app development.</h4>
 
                                     </li>
                                     <li>
@@ -66,7 +66,7 @@
 
                                     </li>
                                     <li>
-                                        <h4>A wide range of libraries for image, audio and video files.</h4>
+                                        <h4 style="text-align: justify">A wide range of libraries for image, audio and video files.</h4>
 
                                     </li>
                                 </ul>
@@ -74,21 +74,21 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
-                                        <h4>Comparatively low investment.</h4>
+                                        <h4 style="text-align: justify">Comparatively low investment.</h4>
 
                                     </li>
                                     <li>
-                                        <h4>Linux Kernel assures stability and security.</h4>
+                                        <h4 style="text-align: justify">Linux Kernel assures stability and security.</h4>
 
                                     </li>
                                     <li>
-                                        <h4>Very less time needed for app development.</h4>
+                                        <h4 style="text-align: justify">Very less time needed for app development.</h4>
 
                                     </li>
                                     <li>
-                                        <h4>Rich development environment.</h4>
+                                        <h4 style="text-align: justify">Rich development environment.</h4>
 
                                     </li>
                                     <li>
@@ -96,7 +96,7 @@
 
                                     </li>
                                     <li>
-                                        <h4>Export and signing app for publishing.</h4>
+                                        <h4 style="text-align: justify">Export and signing app for publishing.</h4>
 
                                     </li>
                                 </ul>

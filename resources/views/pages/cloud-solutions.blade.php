@@ -20,7 +20,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-10 offset-1">
-                                <h1 class="h2">Cloud Solutions Services</h1>
+                                <h1 class=" text-uppercase"><b>Cloud Solutions Services</b></h1>
+                                <br>
                                 <p style="text-align: justify">orianatech-solutions Technologies Cloud seOrianatech-Solutions Technologies' cloud services assist companies in improving customer experiences, speeding up business results, and developing future-ready abilities. Cloud computing is transforming the interaction between businesses and users with computers and mobile devices. In the past, there were costly data centers, large arrays of disk drives, and extensive IT support teams. Nowadays, software applications are provided via the cloud, including databases and virtualized server and desktop environments.</p>
                             </div>
                        </div>
@@ -35,11 +36,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 arrow-active">
-                            <h2 class="section-title text-uppercase" style="text-align: justify">3 services offered by cloud computing for businesses</h2>
+                            <h2 class="section-title text-uppercase">3 services offered by cloud computing for businesses</h2>
                         </div>
                         <div class="col-lg-6">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
                                         <h4>Cloud Storage Solutions</h4>
                                         <p style="text-align: justify">Securely store and manage your business data with scalable cloud storage, ensuring easy access and data backup.

@@ -21,10 +21,10 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-20 offset-0.5">
-                                <h1 class="h2">Hire Dedicated Resources</h1>
-
-                                <p style=" text-align: justify;"><strong>If you are in need of dedicated resources or a team, Oriana Tech Solutions Private Limited is the ideal partner for your needs.</strong></p>
-                                <p style=" text-align: justify; ">We offer highly skilled professionals at competitive prices to meet your specific requirements. Our dedicated resources provide 24/7 support via email and instant messaging, ensuring you are always connected. You will receive regular progress reports and updates, with our team focusing exclusively on your project and addressing all your queries with efficient solutions.</p>
+                            <h1 class=" text-uppercase"><b>HIRE DEDICATED RESOURCES</b></h1>
+                             <br>
+                                <p style=" text-align: justify;"><strong>If you are in need of dedicated resources or a team, Oriana Tech Solutions Private Limited is the ideal partner for your needs.</strong>
+                                We offer highly skilled professionals at competitive prices to meet your specific requirements. Our dedicated resources provide 24/7 support via email and instant messaging, ensuring you are always connected. You will receive regular progress reports and updates, with our team focusing exclusively on your project and addressing all your queries with efficient solutions.</p>
                             </div>
                        </div>
                     </div>
@@ -77,47 +77,47 @@
                         <div class="ul-icon white-tick" style="text-align: justify">
                             <ul style="list-style-type:disc; text-align: justify;">
                                 <li>
-                                    <h4 style="text-align: justify"><b>Expertise and Proficiency</b></br></br>
+                                    <h4 style="text-align: justify"><b>Expertise and Proficiency</b></h4></br>
 
-                                        <b>  Skilled Professionals:</b > Our team consists of highly skilled and experienced developers proficient in the latest technologies and industry standards.</br>
-                                        <b>  Specialized Knowledge: </b>We bring specialized knowledge and expertise to handle complex projects and deliver innovative solutions.</h4>
+                                    <h4><b>  Skilled Professionals:</b ></h4><P style="text-align: justify"> Our team consists of highly skilled and experienced developers proficient in the latest technologies and industry standards.</P>
+                                        <h4><b>  Specialized Knowledge: </b> </h4><P style="text-align: justify">We bring specialized knowledge and expertise to handle complex projects and deliver innovative solutions.</P>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify"><b>Cost-Effective Solutions</b></br></br>
+                                    <h4 style="text-align: justify"><b>Cost-Effective Solutions</b></h4></br>
 
 
 
-                                         <b>   Affordable Rates: </b>We offer competitive pricing without compromising on quality, ensuring you get the best value for your investment.</br>
-                                          <b>  Flexible Engagement Models: </b>Our flexible engagement models allow you to choose the right resources as per your project requirements and budget.</h4>
+                                    <h4><b>   Affordable Rates: </b></h4> <P style="text-align: justify"> We offer competitive pricing without compromising on quality, ensuring you get the best value for your investment.</P>
+                                         <h4><b>  Flexible Engagement Models: </b> </h4><P style="text-align: justify"> Our flexible engagement models allow you to choose the right resources as per your project requirements and budget.</P>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify"><b> Focused Attention</b></br></br>
+                                    <h4 style="text-align: justify"><b> Focused Attention</b></h4></br>
 
 
-                                          <b>  Dedicated Resources:</b>Our developers work exclusively on your project, providing undivided attention and ensuring a deep understanding of your business needs.</br>
-                                         <b>  Seamless Communication: </b> Direct communication with dedicated resources leads to better coordination, faster decision-making, and a smoother workflow.</h4>
+                                    <h4><b>  Dedicated Resources:</b></h4> <P style="text-align: justify"> Our developers work exclusively on your project, providing undivided attention and ensuring a deep understanding of your business needs.</P>
+                                          <h4><b>  Seamless Communication: </b> </h4><P style="text-align: justify"> Direct communication with dedicated resources leads to better coordination, faster decision-making, and a smoother workflow.</P>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify"><b>Scalability and Flexibility</b></br></br>
+                                    <h4 style="text-align: justify"><b>Scalability and Flexibility</b></h4></br>
 
 
-                                             <b>  Scalable Teams:  </b>Easily scale your team up or down based on project demands without the hassle of recruitment and training.</br>
-                                              <b>  Adaptability: </b>Our team quickly adapts to changing project requirements and integrates seamlessly with your in-house team.</h4>
+                                    <h4><b>  Scalable Teams:  </b> </h4><P style="text-align: justify"> Easily scale your team up or down based on project demands without the hassle of recruitment and training.</P>
+                                             <h4><b>  Adaptability: </b></h4> <P style="text-align: justify"> Our team quickly adapts to changing project requirements and integrates seamlessly with your in-house team.</P>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify"><b>Comprehensive Support</b></br></br>
+                                    <h4 style="text-align: justify"><b>Comprehensive Support</b></h4></br>
 
 
-                                         <b>  End-to-End Services: </b> From initial consultation and development to deployment and maintenance, we provide comprehensive support throughout the project.</br>
-                                          <b> Post-Deployment Assistance: </b>We offer ongoing support and maintenance to ensure your solution remains up-to-date and functions optimally.</h4>
+                                    <h4><b>  End-to-End Services: </b> </h4><P style="text-align: justify"> From initial consultation and development to deployment and maintenance, we provide comprehensive support throughout the project.</P>
+                                         <h4><b> Post-Deployment Assistance: </b></h4><P style="text-align: justify"> We offer ongoing support and maintenance to ensure your solution remains up-to-date and functions optimally.</P>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify"><b> Proven Track Record</b></br></br>
+                                    <h4 style="text-align: justify"><b> Proven Track Record</b></h4></br>
 
 
 
-                                          <b>  Successful Projects: </b>We have a proven track record of successfully delivering a wide range of projects across different industries.</br>
-                                         <b>  Satisfied Clients: </b> Our long list of satisfied clients testifies to our commitment to excellence and customer satisfaction.</h4>
+                                          <h4><b>  Successful Projects: </b> </h4><P style="text-align: justify"> We have a proven track record of successfully delivering a wide range of projects across different industries.</P>
+                                          <h4><b>  Satisfied Clients: </b></h4><P style="text-align: justify">  Our long list of satisfied clients testifies to our commitment to excellence and customer satisfaction.</P>
                                 </li>
 
 
