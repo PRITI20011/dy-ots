@@ -198,7 +198,7 @@
                                                     <li><a href="{{ url('/hire-javadeveloper') }}" class="subnav_title">Hire Java
                                                             Developer</a></li>
                                                     <li><a href="{{ url('/hire-reactjs-developer') }}" class="subnav_title">Hire ReactJS Developer</a></li>
-                                                    <li><a href="{{ url('/hire-ios-aoo-developer') }}" class="subnav_title">Hire
+                                                    <li><a href="{{ url('/hire-ios-app-developer') }}" class="subnav_title">Hire
                                                             iOS App Developer</a></li>
 
                                                 </ul>

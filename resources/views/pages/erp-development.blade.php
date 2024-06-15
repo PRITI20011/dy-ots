@@ -32,10 +32,10 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h3 class="mb-4" style="text-align: justify" > The ERP templates can be used by enterprises and corporations as a universal dashboard for the following areas:  </h3>
+                      <h4 class="mb-4" style="text-align: justify" > The ERP templates can be used by enterprises and corporations as a universal dashboard for the following areas:  </h4>
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick" style="font-size: 22px;">
-                            <ul style="list-style-type:square;text-align: justify;">
+                        <ul style="list-style-type:disc ;text-align: justify;">
                                 <li>
                                     <h4>Marketing</h4>
                                 </li>
@@ -52,10 +52,8 @@
                     </div>
                     <div class="col-lg-6">
                             <div class="ul-icon white-tick" style="font-size: 22px;">
-                                <ul style="list-style-type:square;text-align: justify;">
+                              <ul style="list-style-type:disc ;text-align: justify;">
                                     
-                                    
-
                                     <li>
                                         <h4>Project management</h4>
                                     </li>

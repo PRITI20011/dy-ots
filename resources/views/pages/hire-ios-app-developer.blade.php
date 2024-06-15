@@ -6,7 +6,7 @@
              <div class="header-banner bg-grad has-mask">
                 <div class="ax-inner-banner">
                     <div class="banner-intro">
-                        <h3>Hire iOS App Developer</h3>
+                        <h3>Hire IOS App Developer</h3>
                     </div>
                 </div>
             </div>
@@ -29,10 +29,10 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5 arrow-active">
-                            <h2 class="section-title text-uppercase">Why Hire a IOS developer from OrianaTech Solutions Private Limited</h2>
+                            <h4 class="section-title text-uppercase">Why Hire a IOS developer from OrianaTech Solutions Private Limited?</h4>
                         </div>
                         <div class="col-lg-7">
-                            <div class="ul-icon white-tick" style="font-size: 20px; margin-left: 20%;">
+                            <div class="ul-icon white-tick" style=" margin-left: 20%;">
                               
                                 <ul style="list-style-type:disc; margin-left: 10%; text-align: justify;">
                                     <li>
@@ -88,7 +88,7 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify  "> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level iOS applications:</br></br></h2>
+                      <h4 class="mb-4" style="text-align: justify  "> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level iOS applications:</br></br></h4>
                       
                 
                       <div class="col-lg-6">

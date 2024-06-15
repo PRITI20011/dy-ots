@@ -92,7 +92,7 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level Web designes:</br></br></h2>
+                      <h4 class="mb-4" style="text-align: justify"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level Web designes:</br></br></h4>
                       
                 
                       <div class="col-lg-6">

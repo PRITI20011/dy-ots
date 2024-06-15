@@ -81,7 +81,7 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style=" text-align: justify;"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level app designe:</br></br></h2>
+                      <h4 class="mb-4" style=" text-align: justify;"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level app designe:</br></br></h4>
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick"style="text-align: justify">
                             <ul style="list-style-type:disc; text-align: justify;">

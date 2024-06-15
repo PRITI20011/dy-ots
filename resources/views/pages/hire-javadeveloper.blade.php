@@ -74,31 +74,31 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify;"> Our team of developers are well versed with the  following cutting edge technologies which are required to build a high level java applications.</br></br>
-                      </h2>
+                      <h4 class="mb-4" style="text-align: justify;"> Our team of developers are well versed with the  following cutting edge technologies which are required to build a high level java applications.</br></br>
+                      </h4>
                       <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="font-size: 20px;">
+                        <div class="ul-icon white-tick">
                             <ul style="list-style-type:disc;text-align: justify;">
                                 <li>
-                                    <h4>Java EE (Enterprise Edition)</h4>
+                                    <p>Java EE (Enterprise Edition)</p>
                                 </li>
                                 <li>
-                                    <h4>Spring Framework</h4>
+                                    <p>Spring Framework</p>
                                 </li>
                                 <li>
-                                    <h4>Hibernate ORM (Object-Relational Mapping)</h4>
+                                    <p>Hibernate ORM (Object-Relational Mapping)</p>
                                 </li>
                                 <li>
                                     <p>Object-Oriented Programming (OOP)</p>
                                 </li>
                                 <li>
-                                    <h4>Microservices Architecture</h4>
+                                    <p>Microservices Architecture</p>
                                 </li>  
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 20px;">
+                            <div class="ul-icon white-tick">
                                 <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;">
                                     
                                     <li>
@@ -106,10 +106,10 @@
                                     </li>
                                     
                                     <li>
-                                        <h4>Spring Boot, RESTful Web Services</h4>
+                                        <p>Spring Boot, RESTful Web Services</p>
                                     </li>
                                     <li>
-                                        <h4>Continuous Integration and Delivery (CI/CD)</h4>
+                                        <p>Continuous Integration and Delivery (CI/CD)</p>
                                     </li>
 
                                     

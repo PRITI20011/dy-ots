@@ -114,10 +114,6 @@ Route::get('/hire-ios-app-developer',function(){
     return view('pages.hire-ios-app-developer');
 });
 
-Route::get('/hire-ios-javadeveloper',function(){
-    return view('pages.hire-javadeveloper');
-});
-
 Route::get('/hire-Laravel-developer',function(){
     return view('pages.hire-Laravel-developer');
 });
@@ -193,4 +189,12 @@ Route::get('/website-design',function(){
 
 Route::get('/wireframe-design',function(){
     return view('pages.wireframe-design');
+});
+
+Route::get('/hire-angular-developer',function(){
+    return view('pages.hire-angular-developer');
+});
+
+Route::get('/hire-javadeveloper',function(){
+    return view('pages.hire-javadeveloper');
 });

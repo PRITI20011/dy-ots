@@ -83,13 +83,13 @@
                         <div class="ul-icon white-tick" style="text-align: justify">
                             <ul style="text-align: justify; list-style-type:disc">
                                 <li>
-                                    <h4>PHP, Laravel Framework.</h4>
+                                    <p>PHP, Laravel Framework.</p>
                                 </li>
                                 <li>
-                                    <h4>MySQL and other Databases.</h4>
+                                    <p>MySQL and other Databases.</p>
                                 </li>
                                 <li>
-                                    <h4>Vue.js and Blade Templating Engine. </h4>
+                                    <p>Vue.js and Blade Templating Engine. </p>
                                 </li>
 
                                
@@ -101,13 +101,13 @@
                                 <ul style="list-style-type:disc;text-align: justify;">                                    
 
                                     <li>
-                                        <h4>RESTful APIs, Docker and Containerization.</h4>
+                                        <p>RESTful APIs, Docker and Containerization.</p>
                                     </li>
                                     <li>
-                                        <h4>Testing Frameworks (PHPUnit, Laravel Dusk).</h4>
+                                        <p>Testing Frameworks (PHPUnit, Laravel Dusk).</p>
                                     </li>
                                     <li>
-                                        <h4>Continuous Integration and Delivery (CI/CD).</h4>
+                                        <p>Continuous Integration and Delivery (CI/CD).</p>
                                     </li>
                                     
                                 </ul>

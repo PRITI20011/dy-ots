@@ -26,7 +26,6 @@
                          <p style="text-align: justify">OrianaTech provides comprehensive digital marketing solutions worldwide, specializing in SEO, Google Ads, SMM, and Email Marketing. Our services boost sales through effective lead generation, contributing significantly to your business's success as the online customer base grows.</p>
                              <p style="text-align: justify">Looking for digital marketing that delivers real results? OrianaTech, a creative digital marketing agency, enhances your brand's online presence. We ensure your business is discovered by thousands on social media and search engines. Currently, we serve 28 clients with proficient digital marketing strategies.</p>
                             <div class="text-left mt-3">
-                                <div></div>
                                 <br>
                     <h3><b>Why work with us?</b></h3>
                     <div class="col-md-12">
@@ -62,7 +61,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-5 arrow-active">
-                        <h1 class="section-title text-uppercase" >OUR CUSTOM DIGITAL MARKETING SOLUTIONS, SO WHAT WE PROVIDE IN THEM?</h1>
+                        <h3 ><b>Our Custom Digital Marketing Solutions, So What We Provide in Them?</b></h3>
                     </div>
                     <div class="col-lg-7">
                         <div class="ul-icon white-tick">
@@ -100,8 +99,8 @@
         <div class="tech-feature section-padding">
             <div class="container">
                 <div class="row">
-                                <h3 class="section-title">Why Choose OrianaTech Solution For Digital Marketing Solutions?
-                              </h3>
+                                <h4 class="section-title">Why Choose OrianaTech Solution For Digital Marketing Solutions?
+                              </h4>
                     <div class="col-md-12">
                         <div class="ul-icon blue-tick">
                         <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">

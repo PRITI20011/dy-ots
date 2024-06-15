@@ -57,9 +57,10 @@
                 <div class="tech-feature section-padding">
                     <div class="container">
                        <div class="row">
-                                       <h6 class="section-title">Why Choose OrienaTech Solutions Private Limited for iPad App Development Services?</h6>
+                                       <h3><b>Why Choose OrienaTech Solutions Private Limited for iPad App Development Services?</b></h3>
                                        <div class="col-md-6">
                                                <div class="ul-icon blue-tick">
+                                                <br>
                                                <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                        <li>
                                                        <h4>Expert iPad App Development   </h4> 
@@ -80,6 +81,7 @@
                                            </div>
                                            <div class="col-md-6">
                                                    <div class="ul-icon blue-tick">
+                                                    <br>
                                                    <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                            <li>
                                                                <h4>Proven Track Record </h4> 

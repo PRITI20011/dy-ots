@@ -91,35 +91,35 @@
                         <div class="ul-icon white-tick">
                             <ul style="list-style-type:disc; text-align: justify;">
                                 <li>
-                                    <h4 style="text-align: justify"><b>Content Strategy:</b></br></br>
+                                    <p style="text-align: justify"><h4>Content Strategy:</h4></br></br>
 
                                         Quality Content Creation: Develop high-quality, engaging, and shareable content.</br>
                                         Visual Content: Use images, infographics, videos, and live streams to increase engagement.</br>
-                                        User-Generated Content: Encourage and share content created by users to build community and trust.</h4>
+                                        User-Generated Content: Encourage and share content created by users to build community and trust.</p>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify"><b>Engagement and Interaction:</b></br></br> Active Engagement:
+                                    <p style="text-align: justify"><h4>Engagement and Interaction:</h4></br></br> Active Engagement:
 
                                          Respond to comments, messages, and mentions promptly.
-                                        Community Building: Foster a sense of community by engaging with followers and encouraging discussions.</h4>
+                                        Community Building: Foster a sense of community by engaging with followers and encouraging discussions.</p>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify"><b>Optimization and Analytics:</b></br></br>
+                                    <p style="text-align: justify"><h4>Optimization and Analytics:</h4></br></br>
 
                                         Performance Tracking: Regularly analyze social media metrics to assess the effectiveness of campaigns.
-                                        A/B Testing: Test different types of content, posting times, and formats to determine what works best.</h4>
+                                        A/B Testing: Test different types of content, posting times, and formats to determine what works best.</p>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify"><b>Cross-Platform Strategies:</b></br></br>
+                                    <p style="text-align: justify"><h4>Cross-Platform Strategies:</h4></br></br>
 
                                         Consistent Branding: Maintain a consistent brand voice and visuals across all social media platforms.
-                                        Platform-Specific Strategies: Tailor content and engagement strategies to fit the unique characteristics of each platform (e.g., Instagram for visual content, Twitter for real-time updates).</h4>
+                                        Platform-Specific Strategies: Tailor content and engagement strategies to fit the unique characteristics of each platform (e.g., Instagram for visual content, Twitter for real-time updates).</p>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify"><b>Paid Advertising:</b></br></br>
+                                    <p style="text-align: justify"><h4>Paid Advertising:</h4></br></br>
 
                                         Social Media Ads: Utilize paid advertising options on platforms like Facebook, Instagram, Twitter, and LinkedIn to reach a wider audience.
-                                        Targeted Campaigns: Use advanced targeting options to reach specific demographics and interests.</h4>
+                                        Targeted Campaigns: Use advanced targeting options to reach specific demographics and interests.</p>
                                 </li>
 
                                 

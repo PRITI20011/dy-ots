@@ -36,7 +36,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
-                            <h2 class="section-title text-uppercase">Our Web Design Services offers</h2>
+                            <h2 class="section-title text-uppercase">Our Web Design Services offers:</h2>
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">

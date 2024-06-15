@@ -19,6 +19,7 @@
                 <div class="about-block">
                     <div class="row">
                         <h3 class="h3 text-center w-100"><b>Database Development: What You Need to Know</b></h3>
+                        <br>
                         <p style="text-align: justify;">
                             Database development is designing, creating a database or data model, and analyzing requirements and their intents as raw data. Database development aims to create a structure that will allow for the efficient storage and retrieval of data.
 
@@ -35,6 +36,7 @@
                 </div>
                
             </div>
+            <br><br>
             <div class="clearfix"></div>
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
@@ -42,6 +44,7 @@
                         <div class="col-lg-12">
                             <h2 class="section-title text-uppercase"style="text-align:center"><b> Database Development Process </b></h2>
                         </div>
+                        <br><br>
                             <p style="text-align: justify;">
                                 Developing a database involves designing the database, creating the database, and populating the database with data.
                                 This process typically begins with identifying business requirements and the formulation of a database design. The design analysis involves the creation of essential formats comprising hardware and software.
@@ -49,6 +52,7 @@
                                 And with the help of the latest versions, administrators efficiently section and store the data. It presents outstanding opportunities for businesses’ complex needs, creating compliant answers for exclusive database requests of various departments and functional units independently and in consolidation.
 
                            </p>
+                           <br>
                         <div class="col-lg-12">
                             <div class="ul-icon white-tick">
                                 <ul style="list-style: square;">
@@ -76,22 +80,22 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                        <h4 class="section-title" style="text-align: justify">Benefits of Outsourcing Database Development Services:</h4>
+                        <h4 class="section-title">Benefits of Outsourcing Database Development Services:</h4>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick">
-                            <ul style="list-style-type:square;text-align: justify;margin-left: 5%;">
+                          <ul style="list-style-type:disc ;text-align: justify;">
                                    
                                     <li>
-                                        <h4><b>Cost Savings.</b></h4>
+                                        <p>Cost Savings.</p>
                                     </li>
                                     <li>
-                                        <h4><b>Access to Specialized Expertise.</b></h4>
+                                        <p>Access to Specialized Expertise.</p>
                                     </li>
                                     <li>
-                                        <h4><b>Faster Time-to-Market.</b></h4>
+                                        <p>Faster Time-to-Market.</p>
                                     </li>
                                     <li>
-                                        <h4><b>24/7 Support and Maintenance.</b></h4>
+                                        <p>24/7 Support and Maintenance.</p>
                                     </li>
                                 </ul>
                             </div>

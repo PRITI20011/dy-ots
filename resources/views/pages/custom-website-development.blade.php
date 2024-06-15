@@ -38,7 +38,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="list-style-type:disc; disc: margin 1%;">
                                     <li>
                                         <h4><b>Unique business model</b></h4>
                                         <p style="text-align: justify">OrianaTech Solution Pvt Ltd introduces innovative and adaptable business models tailored specifically for website design and development, setting your business apart from competitors.</p>
@@ -65,26 +65,26 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                                    <h3 class="section-title"><b>Why Choose Us As A Custom Website Development Company?</b></h3>
+                                    <h4 class="section-title"><b>Why Choose Us As A Custom Website Development Company?</b></h4>
                         <div class="col-md-12">
                             <div class="ul-icon blue-tick">
                             <ul style="list-style-type:circle; text-align: justify">
                                 <ul style="list-style-type:disc; text-align: justify">
                                     <li>
                                       
-                                        <h4><b>No compromises in the quality or shortcuts</b></h4>
+                                       <p>No compromises in the quality or shortcuts</p>
                                     </li>
                                     <li>
-                                        <h4><b>Website Security</b></h4>
+                                        <p>Website Security</p>
                                     </li>
                                     <li>
-                                        <h4><b>Best performance</b></h4>
+                                        <p>Best performance</p>
                                     </li>
                                     <li>
-                                        <h4><b>Proven delivery framework</b></h4>
+                                        <p>Proven delivery framework</p>
                                     </li>
                                     <li>
-                                        <h4><b>Integration with external API’s</b></h4>
+                                        <p>Integration with external API’s</p>
                                     </li>
                                 </ul>
                             </div>

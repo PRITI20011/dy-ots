@@ -39,7 +39,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 6%;">
                                     <li>
                                         <h4 style="text-align: justify">Custom iPhone app development to meet your requirements.</h4>
                                    
@@ -83,9 +83,10 @@
         <div class="tech-feature section-padding">
                  <div class="container">
                     <div class="row">
-                                    <h6 class="section-title">Why Choose OrienaTech Solutions Private Limited for iPhone App Development Services?</h6>
+                                    <h3><b>Why Choose OrienaTech Solutions Private Limited for iPhone App Development Services?</b></h3>
                                     <div class="col-md-6">
                                             <div class="ul-icon blue-tick">
+                                                <br><br>
                                             <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                     <li>
                                                     <h4>Expert iPhone App Development   </h4> 
@@ -106,6 +107,7 @@
                                         </div>
                                         <div class="col-md-6">
                                                 <div class="ul-icon blue-tick">
+                                                <br><br>
                                                 <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                         <li>
                                                             <h4>Proven Track Record </h4> 

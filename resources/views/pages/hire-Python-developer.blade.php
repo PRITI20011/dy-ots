@@ -74,26 +74,26 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level Python applications:</br></br></h2>
+                      <h4 class="mb-4" style="text-align: justify"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level Python applications:</br></br></h4>
                       
                 
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick" style="text-align: justify">
                             <ul style="list-style-type:disc; text-align: justify">
                                 <li>
-                                    <h4 style="text-align: justify">Python Frameworks (e.g., Django, Flask):</h4>
+                                    <p style="text-align: justify">Python Frameworks (e.g., Django, Flask)</p>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify">Data Science Libraries (e.g., NumPy, Pandas, SciPy):</h4>
+                                    <p style="text-align: justify">Data Science Libraries (e.g., NumPy, Pandas, SciPy)</p>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify">Machine Learning Frameworks (e.g., TensorFlow, PyTorch, Scikit-learn):</h4>
+                                    <p style="text-align: justify">Machine Learning Frameworks (e.g., TensorFlow, PyTorch, Scikit-learn)</p>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify">Web Development Tools (e.g., HTML, CSS, JavaScript):</h4>
+                                    <p style="text-align: justify">Web Development Tools (e.g., HTML, CSS, JavaScript)</p>
                                 </li>
                                 <li>
-                                    <h4 style="text-align: justify">RESTful APIs (e.g., Django REST Framework, Flask-RESTful):</h4>
+                                    <p style="text-align: justify">RESTful APIs (e.g., Django REST Framework, Flask-RESTful)</p>
                                 </li>
 
                                 
@@ -101,24 +101,24 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 20px;">
+                            <div class="ul-icon white-tick">
                                 <ul style="list-style-type:disc;margin-left: 10%; text-align: justify">
                                     
                                    
                                     <li>
-                                        <h4 style="text-align: justify">Database Systems (e.g., PostgreSQL, MySQL, MongoDB):</h4>
+                                        <p style="text-align: justify">Database Systems (e.g., PostgreSQL, MySQL, MongoDB)</p>
                                     </li>
                                     <li>
-                                        <h4 style="text-align: justify">Cloud Platforms (e.g., AWS, Azure, Google Cloud Platform):</h4>
+                                        <p style="text-align: justify">Cloud Platforms (e.g., AWS, Azure, Google Cloud Platform)</p>
                                     </li>
                                     <li>
-                                        <h4 style="text-align: justify">Containerization (e.g., Docker, Kubernetes):</h4>
+                                        <p style="text-align: justify">Containerization (e.g., Docker, Kubernetes)</p>
                                     </li>
                                     <li>
-                                        <h4 style="text-align: justify">DevOps Tools (e.g., Jenkins, GitLab CI/CD):</h4>
+                                        <p style="text-align: justify">DevOps Tools (e.g., Jenkins, GitLab CI/CD)</p>
                                     </li>
                                     <li>
-                                        <h4 style="text-align: justify">Natural Language Processing (NLP) Libraries (e.g., NLTK, SpaCy):</h4>
+                                        <p style="text-align: justify">Natural Language Processing (NLP) Libraries (e.g., NLTK, SpaCy)</p>
                                     </li>
                                        
                                 </ul>

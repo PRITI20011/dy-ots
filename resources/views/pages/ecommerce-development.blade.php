@@ -109,25 +109,26 @@
                                     <h3 style="text-align: justify"> <b>Our Ecommerce Solutions Offer The Following:</b></h3>
                                     <div class="col-md-6">
                                             <div class="ul-icon blue-tick">
-                                                <div></div>
+                                             <br><br>
                                             <ul style="list-style-type:disc; margin-left: 10%;text-align: justify; padding: bottom 59px;">
                                                     <li>
-                                                        <h4>Custom navigation design that works for every kind of shopper.</h4>
+                                                        <p>Custom navigation design that works for every kind of shopper.</p>
                                                     </li>
                                                     <li>
-                                                        <h4>Fresh, standard based code for higher search engine visibility.</h4>
+                                                        <p>Fresh, standard based code for higher search engine visibility.</p>
                                                     </li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                                 <div class="ul-icon blue-tick">
+                                                <br><br>
                                                 <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
                                                         <li>
-                                                            <h4>Lightweight CSS based layouts to decrease page-loading time.</h4>
+                                                            <p>Lightweight CSS based layouts to decrease page-loading time.</p>
                                                         </li>
                                                         <li>
-                                                            <h4>Better-converting and verified checkout methods.</h4>
+                                                            <p>Better-converting and verified checkout methods.</p>
                                                         </li>
                                                     </ul>
                                                 </div>

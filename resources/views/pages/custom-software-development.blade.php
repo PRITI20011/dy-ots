@@ -27,6 +27,7 @@
                 </div>
                
             </div>
+            <br><br>
             <div class="clearfix"></div>
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
@@ -36,7 +37,7 @@
                </div>
                       <div class="col-lg-7">
                         <div class="ul-icon white-tick">
-                            <ul style="list-style-type:square;text-align: justify;margin-left: 5%;">
+                            <ul style="list-style-type:disc ;text-align: justify;margin-left: 5%;">
                                 <li>
                                     <h4>software consulting Service.</h4>
                                 </li>

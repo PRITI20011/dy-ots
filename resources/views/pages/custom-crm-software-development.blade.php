@@ -30,8 +30,8 @@
                 <div class="container">
                     <div class="row">
                       <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="font-size: 22px;">
-                            <ul style="list-style-type:square;text-align: justify;">
+                        <div class="ul-icon white-tick">
+                            <ul style="list-style-type:disc ;text-align: justify;">
                                 <li>
                                     <h4>Address Unique Requirements</h4>
                                 </li>
@@ -47,8 +47,8 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 22px;">
-                                <ul style="list-style-type:square;text-align: justify;">
+                            <div class="ul-icon white-tick">
+                                <ul style="list-style-type:disc ;text-align: justify;">
                                     
                                     <li>
                                         <h4>Gain Competitive Advantage</h4>

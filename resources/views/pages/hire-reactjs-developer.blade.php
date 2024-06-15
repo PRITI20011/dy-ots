@@ -79,31 +79,29 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify;"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level ReactJS applications: </br></br></h2>
+                      <h4 class="mb-4" style="text-align: justify;"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level ReactJS applications: </br></br></h4>
                       
                 
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick">
                             <ul style="list-style-type:disc; text-align: justify">
                                 <li>
-                                    <h4>ReactJS and JSX:</h4>
+                                    <p>ReactJS and JSX</p>
                                 </li>
                                 <li>
-                                    <h4>State Management Libraries (e.g., Redux, MobX):</h4>
+                                    <p>State Management Libraries (e.g., Redux, MobX)</p>
                                 </li>
                                 <li>
-                                    <h4>React Router:</h4>
+                                    <p>React Router</p>
                                 </li>
                                 <li>
-                                    <h4>Component-Based Architecture:</h4>
+                                    <p>Component-Based Architecture</p>
                                 </li>
                                 <li>
-                                    <h4>Server-Side Rendering (SSR) with Next.js:
-
-                                    </h4>
+                                    <p>Server-Side Rendering (SSR) with Next.js</p>
                                 </li>
                                 <li>
-                                    <h4>Hooks and Context API:</h4>
+                                    <p>Hooks and Context API</p>
                                 </li>
                     
                             </ul>
@@ -116,16 +114,16 @@
                                   
                                   
                                     <li>
-                                        <h4>GraphQL and Apollo Client:</h4>
+                                        <p>GraphQL and Apollo Client</p>
                                     </li>
                                     <li>
-                                        <h4>Responsive Design and CSS Frameworks (e.g., Bootstrap, Material-UI):</h4>
+                                        <p>Responsive Design and CSS Frameworks (e.g., Bootstrap, Material-UI)</p>
                                     </li>
                                     <li>
-                                        <h4>Testing Frameworks (e.g., Jest, React Testing Library):</h4>
+                                        <p>Testing Frameworks (e.g., Jest, React Testing Library)</p>
                                     </li>
                                     <li>
-                                        <h4>Development Tools and DevOps Practices:</h4>
+                                        <p>Development Tools and DevOps Practices</p>
                                     </li>
                                     
                                 </ul>

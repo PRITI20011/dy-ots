@@ -36,6 +36,7 @@
                         <div class="col-lg-5 arrow-active">
                             <h4 class="section-title text-uppercase">What do we provide in Modernization ?</h4>
                         </div>
+                        
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
                             <ul style="list-style-type:disc; text-align: justify;">
@@ -71,40 +72,42 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                        <h3 class="section-title mb-3">Why go for Modernization </h3>
-                        <div class="col-md-7">
+                        <h3 ><b>Why go for Modernization? </b></h3>
+                        <div class="col-md-8">
                             <div class="ul-icon blue-tick  pb-4">
+                            <br>
                             <ul style="list-style-type:disc; text-align: justify">
                                     <li>
-                                        <h4 style="text-align: justify">Giving something new in order to engage the regular visitors and unique visitors.</h4>
+                                        <p style="text-align: justify">Giving something new in order to engage the regular visitors and unique visitors.</p>
                                     </li>
                                     <li>
-                                        <h4 style="text-align: justify">Creating a better sense of frequent updates and forcing the users to return to see new things.</h4>
+                                        <p style="text-align: justify">Creating a better sense of frequent updates and forcing the users to return to see new things.</p>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <h3 class="section-title mb-3">We provide Modernization on the following CMS:</h3>
+                        <h3><b>We provide Modernization on the following CMS:</b></h3>
                          <div class="col-md-12">
                             <div class="ul-icon blue-tick">
+                                <br>
                             <ul style="list-style-type:disc; text-align: justify">
                                     <li>
-                                        <h4><b>User Experience (UX) Design</b></h4>
+                                        <p>User Experience (UX) Design</p>
                                     </li>
                                     <li>
-                                        <h4><b>Performance Optimization</b></h4>
+                                        <p>Performance Optimization</p>
                                     </li> 
                                     <li>
-                                        <h4><b>Content Management System (CMS) Migration</b></h4>
+                                        <p>Content Management System (CMS) Migration</p>
                                     </li>
                                     <li>
-                                        <h4><b>Integration of Modern Technologies</b></h4>
+                                        <p>Integration of Modern Technologies</p>
                                     </li> 
                                     <li>
-                                        <h4><b>Accessibility Compliance</b></h4>
+                                        <p>Accessibility Compliance</p>
                                     </li>
                                     <li>
-                                        <h4><b>Security Enhancements</b></h4>
+                                        <p>Security Enhancements</p>
                                     </li>
                                 </ul>
                             </div>

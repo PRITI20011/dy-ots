@@ -42,7 +42,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="list-style-type:disc; text-align: justify">
                                     <li>
                                         <h4 style="text-align: justify">Complete understanding of your business and providing with the best
                                             suggestion of CMS.</h4>

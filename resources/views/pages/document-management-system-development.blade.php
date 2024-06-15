@@ -35,11 +35,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5 ">
-                            <h2 class="section-title text-uppercase"><b> Document Management System content </b></h2>
+                            <h4 class="section-title text-uppercase"> Document Management System content </h4>
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style: square;">
+                                <ul style="list-style: disc;">
                                     <li>
                                         <h4><b>Access Control & Office 365</b></h4>
                                         <p style="text-align: justify"> Access management on all levels with granular custom permissions. Use Okta or Microsoft Entra ID (Active Directory) for central user management. Create groups of collaborators to share to many people at once! Work collaboratively in Office 365 apps.</p>
@@ -66,23 +66,23 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                        <h3 class="section-title" style="text-align: justify"><b>Purpose of a Quality and Manufacturing Document Management System</b></h3>
+                        <h4 class="section-title" style="text-align: justify">Purpose of a Quality and Manufacturing Document Management System</h4>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick">
                              
-                            <ul style="list-style-type:square;text-align: justify;margin-left: 5%;">
+                            <ul style="list-style-type:disc ;text-align: justify;margin-left: 5%;">
                                   
                                     <li>
-                                        <h4><b>Website Security.</b></h4>
+                                        <h4>Website Security.<h4>
                                     </li>
                                     <li>
-                                        <h4><b>Best performance.</b></h4>
+                                        <h4>Best performance.</h4>
                                     </li>
                                     <li>
-                                        <h4><b>Proven delivery framework.</b></h4>
+                                        <h4>Proven delivery framework.</h4>
                                     </li>
                                     <li>
-                                        <h4><b>Integration with external API’s.</b></h4>
+                                        <h4>Integration with external API’s.</h4>
                                     </li>
                                 </ul>
                             </div>

@@ -4,9 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class HirePHPDeveloperController extends Controller
+class HireAngularDeveloperController extends Controller
 {
     public function index(){
-        return view('pages.hire-PHP-developer');
+        return view('pages.hire-angular-developer');
     }
 }

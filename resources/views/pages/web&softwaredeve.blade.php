@@ -47,9 +47,10 @@
                             <h2 style="text-align: justify">Our Moto:
                                 Deliver Web & Software Within Deadline Without Defect
                             Our Web & software development services include:</h2>
-
+                             <br><br>
                         <div class="col-lg-6">
                             <div class="ul-icon white-tick">
+                            <br><br>
                                 <ul style="list-style-type:disc">
                                     <li>
                                         <p>Mobile Application Development.</p>
@@ -69,6 +70,7 @@
                         </div>
                         <div class="col-lg-6">
                                 <div class="ul-icon white-tick">
+                                <br><br>
                                     <ul style="list-style-type: disc">
 
                                         <li>
@@ -95,11 +97,11 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-10 offset-1">
-                                <h3 style="text-align: justify">We at OrianaTech Solutions Specialise in Creating sites
-                                    and Software that leads to Higher conversion/Sales</h3>
+                                <h4 style="text-align: justify">We at OrianaTech Solutions Specialise in Creating sites
+                                    and Software that leads to Higher conversion/Sales:</h4>
                                 <p style="text-align: justify">Website with the right functionality and features can assist your
-                                    online business to grow to the next level and get maximum return on investment.</p>
-                                <p style="text-align: justify">"Websites should look good from the inside and out" , that 's what we at OrianaTech
+                                    online business to grow to the next level and get maximum return on investment.
+                                "Websites should look good from the inside and out", that's what we at OrianaTech
                                     have adapted and delivered to most of Dubai Based Website development Projects with
                                     Proven Results.</p>
                             </div>
@@ -148,7 +150,7 @@
 
                                     <div class="col-md-6">
                                             <div class="ul-icon blue-tick">
-                                                <ul>
+                                            <ul style="list-style-type:disc">
                                                     <li>
                                                         <h4>Custom Website Development</h4>
                                                         <p style="text-align: justify">We Build an interactive, customized and High-Quality websites for
@@ -185,7 +187,7 @@
                                     </div>
                                     <div class="col-md-6">
                                             <div class="ul-icon blue-tick">
-                                                <ul>
+                                            <ul style="list-style-type:disc">
 
                                                     <li>
                                                         <h4>ERP Development</h4>
@@ -228,7 +230,7 @@
 
                                     <div class="col-md-6">
                                             <div class="ul-icon blue-tick">
-                                                <ul>
+                                            <ul style="list-style-type:disc">
                                                     <li>
                                                         <h4>Custom Website Development</h4>
                                                         <p style="text-align: justify">We Build an interactive, customized and High-Quality websites
