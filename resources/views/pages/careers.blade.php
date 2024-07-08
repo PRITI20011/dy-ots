@@ -46,7 +46,7 @@
 
                 </p>
                 <hr>
-                <p style="text-align: justify">If you feel that you can fit in our family and grow
+                <p >If you feel that you can fit in our family and grow
                     with us then have a look at our Current Openings.
 
                 </p>

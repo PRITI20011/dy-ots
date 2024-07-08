@@ -17,8 +17,8 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-10 offset-1">
-                                <h1 class=" text-uppercase"><b>Apple Watch App Development</b></h1>
+                            <div class="col">
+                                <h1 ><b>Apple Watch App Development</b></h1>
                                  <br>
                                <p style="text-align: justify">At OrienaTech Solutions Private Limited, we specialize in the comprehensive development of applications for the Apple Watch, leveraging the latest technologies and best practices to deliver innovative, high-quality solutions. At OrienaTech Solutions Private Limited, our dedicated team of developers and designers is committed to delivering top-tier Apple Watch applications that are not only functional but also user-friendly and efficient. By staying abreast of the latest developments in watchOS and leveraging our expertise, we ensure that our clients receive cutting-edge solutions tailored to their specific needs.</p>
 

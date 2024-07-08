@@ -17,7 +17,7 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-10 offset-1">
+                            <div class="col">
                                 <h1 class="h1">IPad Apps Development Company</h1>
                                 <br>
                                 <p style="text-align: justify">In the wake of the iPhone's phenomenal success, Apple introduced its first tablet, the iPad, which swiftly established a strong foothold in the tablet market. The iPad's unique operating system, iOS, offers immense potential for developers to create exceptional apps. <br><br>At OreinaTech Solution Private Limited, we specialize in the latest iPad app development, leveraging interactive and attractive features to deliver top-notch mobile solutions at an affordable rate. Although iPad app development shares many similarities with iPhone app development, a few critical tweaks set them apart. One major distinction is the user experience provided by the iPad, which is tailored to its larger screen and versatile functionality. <br><br>iPad apps are invaluable for both business and personal use, catering to a wide range of tasks and activities. The iPad is a revolutionary device, enhancing how we manage daily tasks at home and in the office. It appeals to users of all ages and demographics.At OreinaTech, we harness the latest technologies to deliver superior iPad app development services. Our team is dedicated to creating innovative and effective mobile solutions that meet your unique needs.</p>

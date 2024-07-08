@@ -19,8 +19,8 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-10 offset-1">
-                                <h1 class=" text-uppercase"><b>Cloud Solutions Services</b></h1>
+                            <div class="col-md-12">
+                                <h1 ><b>Cloud Solutions Services</b></h1>
                                 <br>
                                 <p style="text-align: justify">orianatech-solutions Technologies Cloud seOrianatech-Solutions Technologies' cloud services assist companies in improving customer experiences, speeding up business results, and developing future-ready abilities. Cloud computing is transforming the interaction between businesses and users with computers and mobile devices. In the past, there were costly data centers, large arrays of disk drives, and extensive IT support teams. Nowadays, software applications are provided via the cloud, including databases and virtualized server and desktop environments.</p>
                             </div>
@@ -68,7 +68,7 @@
        <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                                    <h3 class="section-title">Our Offerings:</h3>
+                                    <h3 class="section-title" style="margin-left: 5%;">Our Offerings:</h3>
 
                                     <div class="col-md-4">
                                             <div class="ul-icon blue-tick">

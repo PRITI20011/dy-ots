@@ -49,7 +49,7 @@
                                                 <ul>
                                                     <li>
                                                         <h3>Impeccable Quality</h3><hr>
-                                                        <p >At times many companies tend to compromise on quality while competition on low rates.
+                                                        <p>At times many companies tend to compromise on quality while competition on low rates.
                                                             However, you need not worry when you are with us.
                                                             We have a dedicated Quality Assurance Team that monitors your project at all stages
                                                             so that the quality is not negotiated for cost efficiency. We at OrianaTech utilize
@@ -95,6 +95,7 @@
                                                 </ul>
                                             </div>
                                     </div>
+                    </div>
                 </div>
                 </div>
 @endsection

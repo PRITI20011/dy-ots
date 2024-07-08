@@ -21,8 +21,8 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-10 offset-1">
-                            <h1 class=" text-uppercase"><b>Artificial intelligence and machine learning</b></h1>
+                            <div class="col-md-12">
+                            <h1 ><b>Artificial intelligence and machine learning</b></h1>
                             <br>
                              <p style="text-align: justify">OrianaTech Solutions Technologies stands at the forefront of Applied AI and Machine Learning innovation, dedicated to empowering businesses to harness the immense potential of Big Data and Machine Learning solutions for tangible business growth. Our focus lies in seamlessly integrating cutting-edge technologies to drive measurable business outcomes. Through our Artificial Intelligence and Machine Learning Development Services, we streamline operations and enhance efficiency across various industries.</p>
                             </div>
@@ -130,6 +130,9 @@
                                             </ul>
                                         </div>
                                     </div>
+                    </div>
+                </div>
+             </div>
 
             <div class="clearfix"></div>
 

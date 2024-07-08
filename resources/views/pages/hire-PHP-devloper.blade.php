@@ -6,7 +6,7 @@
              <div class="header-banner bg-grad has-mask">
                 <div class="ax-inner-banner">
                     <div class="banner-intro">
-                        <h3>Hire Laravel Developer</h3>
+                        <h3>Hire PHP Developer</h3>
                     </div>
                 </div>
             </div>
@@ -17,9 +17,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 offset-0.5">
-                              <h1><b>Hire Laravel Developer</b></h1>
-                              <br>
-                                <p style=" text-align: justify;">OrianaTech Solutions offers skilled Laravel developers ready to elevate your web development projects. Our developers are proficient in leveraging the Laravel framework to build robust, scalable, and secure web applications tailored to your unique business needs. With a focus on quality and efficiency, our team delivers top-notch solutions that drive your business forward. Partner with us to harness the power of Laravel and achieve your development goals.</p>
+                              <h1 class="h2">Hire PHP Developer</h1>
+                                <p style=" text-align: justify;">OrianaTech Solutions offers skilled PHP developers ready to elevate your web development projects. Our developers are proficient in leveraging PHP to build robust, scalable, and secure web applications tailored to your unique business needs. With a focus on quality and efficiency, our team delivers top-notch solutions that drive your business forward. Partner with us to harness the power of PHP and achieve your development goals.</p>
                             </div>
                        </div>
                     </div>
@@ -30,14 +29,14 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5 arrow-active">
-                            <h2 class="section-title text-uppercase">Why Hire a Laravel Developer from OrianaTech Solutions Private Limited?</h2>
+                            <h2 class="section-title text-uppercase">Why Hire a PHP Developer from OrianaTech Solutions Private Limited?</h2>
                         </div>
                         <div class="col-lg-7">
-                            <div class="ul-icon white-tick" style=" margin-left: 20%;">
+                            <div class="ul-icon white-tick">
                               
-                                <ul style="list-style-type:disc">
+                            <ul style="list-style-type:disc;margin-left: 15%">
                                     <li>
-                                        <h4>Expertise in Laravel Framework.</h4>
+                                        <h4>Expertise in PHP Development.</h4>
                                     </li>
                                     <li>
                                         <h4>Robust and Scalable Solutions. </h4>
@@ -77,40 +76,45 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h6 class="mb-6" style="text-align: justify"> Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level Laravel solutions.</br></br>
-                      </h6>             
-                      <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="text-align: justify">
-                        <ul style="list-style-type:disc ;margin-left: 10%; text-align: justify">
+                      <h6 class="mb-6" style="text-align: justify"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level PHP applications:</h6>
+                
+                      <div class="col-lg-6"> <hr>
+                        <div class="ul-icon white-tick">
+                            
+                        <ul style="list-style-type:disc;margin-left: 15%">
                                 <li>
-                                    <p>PHP, Laravel Framework.</p>
+                                    <p>PHP Frameworks (e.g., Laravel, Symfony, CodeIgniter)</p>
                                 </li>
                                 <li>
-                                    <p>MySQL and other Databases.</p>
+                                    <p>MySQL and other Database Systems</p>
                                 </li>
                                 <li>
-                                    <p>Vue.js and Blade Templating Engine. </p>
+                                    <p>Frontend Technologies (HTML5, CSS3, JavaScript)</hp>
                                 </li>
-
+                                <li>
+                                    <p>RESTful APIs, Version Control Systems (e.g., Git)</p>
+                                </li>
                                
+                                
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                            <div class="ul-icon white-tick"style="text-align: justify">
-                            <ul style="list-style-type:disc ;margin-left: 10%; text-align: justify">                                    
-
-                                    <li>
-                                        <p>RESTful APIs, Docker and Containerization.</p>
-                                    </li>
-                                    <li>
-                                        <p>Testing Frameworks (PHPUnit, Laravel Dusk).</p>
-                                    </li>
-                                    <li>
-                                        <p>Continuous Integration and Delivery (CI/CD).</p>
-                                    </li>
+                    <div class="col-lg-6"> <hr>
+                            <div class="ul-icon white-tick">
+                            
+                            <ul style="list-style-type:disc;margin-left: 15%">
                                     
-                                </ul>
+                                    
+                                    <li>
+                                        <p>Dependency Management (Composer)</p>
+                                    </li>
+                                    <li>
+                                        <p>Testing Frameworks (PHPUnit, Codeception)</p>
+                                    </li>
+                                    <li>
+                                        <p>Containerization (Docker), Continuous Integration and Deployment (CI/CD)</p>
+                                    </li>
+                                                                    </ul>
                             </div>
                         </div>
                 </div>
@@ -120,5 +124,5 @@
                     </div>
                 </div>
             </div>
-</section>
-        @endsection
+ </section>
+ @endsection

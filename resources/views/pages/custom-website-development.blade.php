@@ -35,25 +35,26 @@
                     <div class="row">
                         <div class="col-lg-5 arrow-active">
                             <h2 class="section-title text-uppercase"><b>Why Do You  <br> Need a Custom<br> Website Development<br>For Your Business ?</b></h2>
+                            
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                            <ul style="list-style-type:disc; disc: margin 1%;">
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li>
                                         <h4><b>Unique business model</b></h4>
-                                        <p style="text-align: justify">OrianaTech Solution Pvt Ltd introduces innovative and adaptable business models tailored specifically for website design and development, setting your business apart from competitors.</p>
+                                        <p>OrianaTech Solution Pvt Ltd introduces innovative and adaptable business models tailored specifically for website design and development, setting your business apart from competitors.</p>
                                     </li>
                                     <li>
                                         <h4><b>Unique website to make an lasting impression</b></h4>
-                                        <p style="text-align: justify">We specialize in crafting distinctive websites that leave a lasting impact. Through close collaboration with our clients, we ensure each design solution reflects your unique identity and resonates with your target audience.</p>
+                                        <p>We specialize in crafting distinctive websites that leave a lasting impact. Through close collaboration with our clients, we ensure each design solution reflects your unique identity and resonates with your target audience.</p>
                                     </li>
                                     <li>
                                         <h4><b> Custom website offers more robust capability</b></h4>
-                                        <p style="text-align: justify">Our custom websites offer unparalleled capabilities, meticulously crafted to excel in search engine performance. We prioritize sophisticated designs that not only attract but also engage users effectively.</p>
+                                        <p>Our custom websites offer unparalleled capabilities, meticulously crafted to excel in search engine performance. We prioritize sophisticated designs that not only attract but also engage users effectively.</p>
                                     </li>
                                     <li>
                                         <h4><b>Made only for you</b></h4>
-                                        <p style="text-align: justify">At OrianaTech Solution Pvt Ltd, we are dedicated to building interactive, high-quality websites tailored exclusively for your success in the business landscape. Your vision is our priority, and we strive to bring it to life through our bespoke solutions.</p>
+                                        <p>At OrianaTech Solution Pvt Ltd, we are dedicated to building interactive, high-quality websites tailored exclusively for your success in the business landscape. Your vision is our priority, and we strive to bring it to life through our bespoke solutions.</p>
                                     </li>
                                 </ul>
                             </div>
@@ -65,26 +66,26 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                                    <h4 class="section-title"><b>Why Choose Us As A Custom Website Development Company?</b></h4>
+                                    <h3 class="section-title" style="margin-left: 5%;"><b>Why Choose Us As A Custom Website Development Company?</b></h3>
                         <div class="col-md-12">
                             <div class="ul-icon blue-tick">
-                            <ul style="list-style-type:circle; text-align: justify">
-                                <ul style="list-style-type:disc; text-align: justify">
+                               
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li>
-                                      
-                                       <p>No compromises in the quality or shortcuts</p>
+                                        <ul></ul>
+                                        <h4><b>No compromises in the quality or shortcuts</b></h4>
                                     </li>
                                     <li>
-                                        <p>Website Security</p>
+                                        <h4><b>Website Security</b></h4>
                                     </li>
                                     <li>
-                                        <p>Best performance</p>
+                                        <h4><b>Best performance</b></h4>
                                     </li>
                                     <li>
-                                        <p>Proven delivery framework</p>
+                                        <h4><b>Proven delivery framework</b></h4>
                                     </li>
                                     <li>
-                                        <p>Integration with external API’s</p>
+                                        <h4><b>Integration with external API’s</b></h4>
                                     </li>
                                 </ul>
                             </div>

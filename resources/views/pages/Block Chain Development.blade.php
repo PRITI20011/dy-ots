@@ -19,8 +19,8 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-10 offset-1">
-                                <h1 class=" text-uppercase"><b>Blockchain Development</b></h1>
+                            <div class="col-md-12">
+                                <h1 ><b>Blockchain Development</b></h1>
                                 <br>
                                 <p style="text-align: justify">blockchain performance to handle a high volume of transactions efficiently.OrianaTech Solution boasts a team of seasoned blockchain developers with extensive experience in designing, developing, and deploying blockchain solutions across various industries.</p><!--</span>-->
 

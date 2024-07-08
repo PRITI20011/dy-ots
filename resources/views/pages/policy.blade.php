@@ -1,6 +1,7 @@
 @extends('layout.main')
 
 
+
 @section('main-content')
             <div id="particles-js"></div> 
              <div class="header-banner bg-grad has-mask">
@@ -16,7 +17,9 @@
         	<h3 style="margin: 30px; font-weight: 600; font-size: 30px;">Pages:</h3>
 	<div class="row">
 		<div class="col-sm-4 ">
-             <ul>
+          
+
+ <ul>
                  <li class="hd1"> <i class="fa fa-file-text" aria-hidden="true" style="font-size: 18px; margin-right: 10px; "></i> <a href="#">Services</a></li> 
                
                 <ul  style="list-style-type:disc; "><li><a class ="st1" href="website-development.html">Web & Software Development</a>
@@ -30,9 +33,22 @@
                                           <li><a href="database-development.html" class="st">Database Development</a></li>
                                           <li><a href="document-management-system-development.html" class="st">Document Management System Development</a></li>
                                           <li><a href="saas-application-development.html" class="st">SaaS Application Development</a></li></ul>
-                                          </li>
+                </li>
 
-	           	</div>
+                 
+
+                       <!-- <li style="list-style-type:disc;"> <a class ="st1" href="https://axattechnologies.com/about-axat"> Mobile App development<</a> 
+
+                                          <ul style="list-style-type:circle;"> <li> <a href="https://axattechnologies.com/prototypes" class="st">Prototypes</a></li>
+                                           <li><a href="https://axattechnologies.com/android-app-development" class="st">Android app development</a></li>
+                                          <li><a href="https://axattechnologies.com/iphone-app-development" class="st">iOS app development</a></li>
+                                          <li><a href="https://axattechnologies.com/ipad-app-development" class="st">iPad app development</a></li>
+                                          <li><a href="https://axattechnologies.com/apple-watch-app-development" class="st">Apple Watch App Development</a></li>
+                                        </ul></li>
+                 -->
+
+
+		</div>
 
 		<div class="col-sm-4 ">
            
@@ -63,6 +79,9 @@
                                           <li><a href="smm-social-media-marketing.html" class="st">Social Media Marketing (SMM)</a></li>
                                           <li><a href="sem-search-engine-marketing.html" class="st">Search Engine Marketing (SEM)</a></li>
                                          
+              
+
+
 		</div>
 
 		<div class="col-sm-4">
@@ -72,30 +91,46 @@
                                         </ul>
 
                 </li>
+                
+
               <li style="list-style-type:disc;"> <a class ="st1" href="hire-dedicated-resource.html"> HIRE DEDICATED RESOURCES</a> 
                    <ul style="list-style-type:circle;"> <li><a href="hire-graphic-designer.html" class="st">Hire Graphic Designer</a></li>
                                           <li><a href="hire-smo-specialist.html" class="st">Hire SMO Specialist</a></li>
-                                          <li><a href="#" class="subnav_title">Hire PHP Developer</a></li>
-                                          <li><a href="#" class="subnav_title">Hire Python Developer</a></li>
+                                          <!-- <li><a href="#" class="subnav_title">Hire PHP Developer</a></li> -->
+                                          <!-- <li><a href="#" class="subnav_title">Hire Python Developer</a></li> -->
                                           <li><a href="hire-dedicated-designer.html" class="st">Hire Web Designer</a></li>
                                           <li><a href="hire-ppc-specialist.html" class="st">Hire PPC Specialist</a></li>
-                                          <li><a href="#" class="subnav_title">Hire Angular Developer</a></li>
-                                          <li><a href="#" class="subnav_title">Hire Android App Developer</a></li>
+                                          <!-- <li><a href="#" class="subnav_title">Hire Angular Developer</a></li> -->
+                                          <!-- <li><a href="#" class="subnav_title">Hire Android App Developer</a></li> -->
                                           <li><a href="hire-app-designer.html" class="st">Hire App Designer</a></li>
                                           <li><a href="hire-smm-specialist.html" class="st">Hire SMM Specialist</a></li>
-                                          <li><a href="#" class="subnav_title">Hire ReactJS Developer</a></li>
+                                          <!-- <li><a href="#" class="subnav_title">Hire ReactJS Developer</a></li> -->
                                           <li><a href="hire-ios-app-developer.html" class="st">Hire iOS App Developer</a></li>
                                           <li><a href="hire-dedicated-seo-expert.html" class="st">Hire SEO Specialist</a></li>
                                           <li><a href="hire-sem-specialist.html" class="st">Hire SEM Specialist</a></li>
                                         </ul>
 
                 </li>
+
+
+
+
        <li style="list-style-type:disc;"> <a class ="st1" href="cloud-solutions.html" > CLOUD SOLUTIONS</a></li>
                      <li style="list-style-type:disc;"> <a class ="st1" href="augmented-reality.html" > AUGMENTED REALITY</a></li>
                        <li style="list-style-type:disc;"> <a class ="st1" href="crypto-and-blockchain-development.html"> CRYPTO & BLOCK CHAIN DEVELOPMENT</a></li>
-                         <li style="list-style-type:disc;"> <a class ="st1" href="artificial-intelligence-and-machine-learning.html" > ARTIFICIAL INTELLIGENCE </a></li> 
-          </ul>      
+                         <li style="list-style-type:disc;"> <a class ="st1" href="artificial-intelligence-and-machine-learning.html" > ARTIFICIAL INTELLIGENCE </a></li>
+
+                
+          </ul>  
+
+
+   
+         
+
+           
+    	    
 		</div>
+
 
 	</div>
 
@@ -105,11 +140,16 @@
     <div class="col-sm-4 ">
        <ul>
                <li class="hd1"> <i class="fa fa-file-text" aria-hidden="true" style="font-size: 18px; margin-right: 10px; "></i><a href="#">Company</a></li>
-                <ul  style="list-style-type:disc;"><li><a class ="st1" href="about-axat.html">About OrienaTech Solutions</a></li>
+                <ul  style="list-style-type:disc;"><li><a class ="st1" href="about-axat.html">About AXAT</a></li>
                   <li><a class ="st1" href="management-team.html">Management Team</a></li>
                   <li><a class ="st1" href="ourculture.html">Our Culture</a></li>
                   <li><a class ="st1" href="who-we-are.html">Who we are</a></li>
                   <li><a class ="st1" href="why-us.html">Why Us</a></li></ul>
+
+
+                <!-- <li><a href="#"><strong>Portfolio</strong></a></li>
+                <ul><li><a href="#">Subpage 1</a></li><li><a href="#">Subpage 2</a></li></ul>
+                <li><a href="#"><strong>Contact</strong></a></li> -->
           </ul>
     </div>
     <div class="col-sm-4 ">
@@ -136,4 +176,4 @@
 
         </section>
 
- @endsection
+       @endsection

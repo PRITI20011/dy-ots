@@ -1,12 +1,13 @@
 @extends('layout.main')
 
 
+
 @section('main-content')
             <div id="particles-js"></div> 
                 <div class="header-banner bg-grad has-mask">
                 <div class="ax-inner-banner">
                     <div class="banner-intro">
-                        <h3>Seo Packages</h3>
+                        <h3>Seo packages</h3>
                     </div>
                 </div>
             </div>
@@ -14,14 +15,14 @@
         <section class="section-padding pb-3">
             <div class="container content"> 
                 <div class="row text-center">
-                        <p style="text-align: justify">OrianaTech Solutions offers cost-effective SEO service packages designed to boost your business’s visibility in search engine results. Our tailored SEO packages help improve your site's ranking for specific niche keywords, driving targeted traffic and facilitating business growth. Achieving a high search engine ranking ensures your website attracts the right audience, thereby enhancing your business success. Our affordable SEO packages provide the optimal solutions to maximize these benefits for your website.</p>  
+                        <p style="text-align: justify;">Oriana Tech Solutions offers cost-effective SEO service packages designed to boost your business’s visibility in search engine results. Our tailored SEO packages help improve your site's ranking for specific niche keywords, driving targeted traffic and facilitating business growth. Achieving a high search engine ranking ensures your website attracts the right audience, thereby enhancing your business success. Our affordable SEO packages provide the optimal solutions to maximize these benefits for your website.</p>  
                 </div>
             </div>
         </section>
 
         <section>
         	<div class="container text-center">
-        		<h4><span style="font-weight: 700">Note</span>- Specific No of Keywords & Customized Packages <a href="{{url('/contact-us')}}">Contact Us Now</a>.</h4>
+        	    <h4><span style="font-weight: 700">Note</span> - Specific No of Keywords & Customized Packages <a href="contact-us.html">Contact Us Now</a>.</h4>
         	</div>
         </section>
 
@@ -32,8 +33,8 @@
                         <div class="d-flex flex-column align-items-center text-center">
                             <h4>Silver</h4>
                             <div class="d-flex align-items-center justify-content-center mb-1">
-                                <span class="h5 mb-0 mr-1 mr-sm-2">$</span>
-                                <span class="display-4 mb-0 text-dark">299</span>
+                                <span class="h5 mb-0 mr-1 mr-sm-2">RS</span>
+                                <span class="display-4 mb-0 text-dark">899</span>
                             </div>
                             <div class="text-small mb-3 mb-md-4">Per user, per month</div>
                             <a href="contact-us.html" class="btn btn-outline-primary buy-now-btn btn-block">
@@ -46,8 +47,8 @@
                         <div class="d-flex flex-column align-items-center text-center">
                             <h4>Gold</h4>
                             <div class="d-flex align-items-center justify-content-center mb-1">
-                            <span class="h5 mb-0 mr-1 mr-sm-2">$</span>
-                            <span class="display-4 mb-0 text-dark">499</span>
+                            <span class="h5 mb-0 mr-1 mr-sm-2">RS</span>
+                            <span class="display-4 mb-0 text-dark">1099</span>
                             </div>
                             <div class="text-small mb-3 mb-md-4">Per user, per month</div>
                             <a href="contact-us.html" class="btn btn-primary btn-block">
@@ -60,8 +61,8 @@
                         <div class="d-flex flex-column align-items-center text-center">
                             <h4>Premium</h4>
                             <div class="d-flex align-items-center justify-content-center mb-1">
-                            <span class="h5 mb-0 mr-1 mr-sm-2">$</span>
-                            <span class="display-4 mb-0 text-dark">799</span>
+                            <span class="h5 mb-0 mr-1 mr-sm-2">RS</span>
+                            <span class="display-4 mb-0 text-dark">1699</span>
                             </div>
                             <div class="text-small mb-3 mb-md-4">Per user, per month</div>
                             <a href="contact-us.html" class="btn btn-outline-primary btn-block buy-now-btn">
@@ -76,7 +77,7 @@
                     <div class="pricing-table-section text-center text-lg-left">
                         <div class="row no-gutters">
                             <div class="col">
-                                <h5 class="mb-4">PRICE PER MONTH USA $</h5>
+                                <h5 class="mb-4">PRICE PER MONTH INDIAN RS</h5>
                             </div>
                         </div>
                         <div class="border rounded">
@@ -109,7 +110,7 @@
                                     <span>14</span>
                                 </div>
                                 <div class="col-4 col-lg-3 d-flex justify-content-center py-2">
-                                    <span>20</span>
+                                    <span>20+</span>
                                 </div>
                             </div>
                             <div class="row no-gutters align-items-center">
@@ -1071,4 +1072,4 @@
                 
             </div>
         </section>
- @endsection
+        @endsection
