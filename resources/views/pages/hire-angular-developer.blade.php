@@ -46,7 +46,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="ul-icon white-tick" style="font-size: 22px;">
-                                <ul style="list-style-type:disc">
+                                <ul style="list-style-type:disc;margin:left;">
                                     <li>
                                         <p>Expertise and Experience</p>
                                     </li>
